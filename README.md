@@ -61,7 +61,6 @@ Depuis Octobre 2025
 
 ## Structure du dépôt
 
-
 portfolio-data-analyst-OC/
 │
 ├── README.md
