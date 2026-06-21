@@ -60,7 +60,7 @@ Depuis Octobre 2025
 
 
 ## Structure du dépôt
-
+```
 portfolio-data-analyst-OC/
 │
 ├── README.md
@@ -74,3 +74,4 @@ portfolio-data-analyst-OC/
 ├── projet-7-python-immobilier/
 ├── projet-8-powerbi-performance-transports/
 └── projet-9-excel-ppt-segmentation-marche/
+```
