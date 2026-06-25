@@ -62,14 +62,39 @@ maîtrise data font la différence.
 
 ## 
 
-## Compétences et outils
+## Compétences & Outils
 
-* **Visualisation de données** : Power BI, Excel
-* **Bases de données \& SQL** : DBeaver, SQLite Studio (création de bases, schémas relationnels, requêtes)
-* **Programmation** : Python (analyse de données, machine learning - régression linéaire)
-* **Conformité \& réglementation** : RGPD (collecte, conservation, anonymisation des données personnelles)
-* **Analyse business** : SWOT, PESTEL, segmentation de marché, KPI, reportings 
-* **Bureautique** : Excel, PowerPoint
+### 📊 Data & Reporting
+- **Power BI** — conception de tableaux de bord, modélisation de données, DAX
+- **Excel** — Power Query, fonctions avancées, mise en forme conditionnelle
+- **Python** — analyse de données (Pandas, Matplotlib, Plotly)
+- **SQL** — requêtes, jointures, création et gestion de bases de données (DBeaver, SQLite Studio)
+
+### 🗂️ Outils métier & SI
+- **GMAO** — déploiement (chef de projet) et administration courante
+- **SAP Business One** — chef de projet déploiement
+- **Microsoft Project** — planification et suivi de projets
+- **Projektor** — gestion de projets et portefeuille
+
+### 🚀 Gestion de projet & AMOA
+- Conduite de projets SI : cadrage, planification, suivi des coûts, animation d'ateliers
+- Recueil et formalisation des besoins métier
+- Rédaction de documentation métier : tutoriels, cahiers métiers, supports utilisateurs
+- Interface équipes terrain / fonctions support / direction
+- Gestion de projet en environnement contraint (défense, maintenance navale)
+
+### 📦 Expertise métier
+- Gestion des stocks et approvisionnements
+- Logistique transport, import-export, fiscalité douanière
+- Analyse de la performance : KPI, indicateurs, reporting financier
+- Analyse business : SWOT, PESTEL, segmentation de marché
+
+### 📋 Conformité & Réglementation
+- RGPD — collecte, conservation et anonymisation des données personnelles
+
+### 👥 Management
+- Encadrement d'équipe 
+- Communication multi-niveaux : équipes terrain → direction
 
 
 
