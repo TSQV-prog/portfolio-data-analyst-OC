@@ -7,15 +7,31 @@ Ce dépôt regroupe les projets réalisés dans le cadre de ma formation **Data 
 
 ## À propos de moi
 
-Je m'appelle **Thomas Secqueville**, en formation Data Business Intelligence Analyst chez OpenClassrooms depuis **Octobre 2025**.
-Je m'intéresse particulièrement à l'analyse de données, la visualisation et la business intelligence, et je cherche à évoluer vers un poste de **Business Analyst AMOA**.
+Je m'appelle **Thomas Secqueville**. Diplômé en méthodes et exploitation logistique
+(TESMEL, 2008), j'ai découvert la maintenance navale lors de missions en intérim
+chez **DCNS (aujourd'hui Naval Group)** avant de rejoindre **CNN MCO** où j'évolue
+depuis 10 ans — de logisticien à responsable logistique en 2017, avec des
+responsabilités croissantes en pilotage de la performance et en conduite de projets.
+
+J'accompagne les équipes projet et fonctions supports dans la définition de leurs
+besoins et le déploiement de tableaux de bord adaptés (suivi budgétaire, pointage,
+pilotage de projets). Ma connaissance transversale des processus et des métiers de
+l'entreprise m'a conduit à piloter des projets SI structurants : déploiement de
+**SAP Business One** (2023-2024) puis d'une **nouvelle GMAO** (Maintenance, Achats,
+Stocks, Ventes) — déployée avec succès en 2025. Je supervise aujourd'hui les
+évolutions numériques en cours : GMAO, CLM, PPM.
+
+Passionné par la logistique, le numérique et la gestion de projet, je comprends
+les données parce que je comprends les opérations. La certification **Data Business
+Analyst** (OpenClassrooms, 2025) structure et formalise ces compétences — en y
+ajoutant Python, SQL et les méthodes d'analyse data.
+
+Mon objectif : un poste de **Business Analyst / AMOA** où expérience métier et
+maîtrise data font la différence.
 
 **Me contacter :**
-
-* Par mail : [secqueville.thomas@gmail.com](mailto:secqueville.thomas@gmail.com)
-* Sur LinkedIn : [thomas-secqueville-21362222a](https://www.linkedin.com/in/thomas-secqueville-21362222a/)
-
-\*\*Note sur la confidentialité\*\* : certains projets réalisés en entreprise contiennent des données sensibles. Merci de ne pas les divulguer sans mon accord.
+- 📧 [secqueville.thomas@gmail.com](mailto:secqueville.thomas@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-secqueville-21362222a/)
 
 
 
@@ -45,7 +61,7 @@ Je m'intéresse particulièrement à l'analyse de données, la visualisation et 
 * **Bases de données \& SQL** : DBeaver, SQLite Studio (création de bases, schémas relationnels, requêtes)
 * **Programmation** : Python (analyse de données, machine learning - régression linéaire)
 * **Conformité \& réglementation** : RGPD (collecte, conservation, anonymisation des données personnelles)
-* **Analyse business** : SWOT, PESTEL, segmentation de marché, KPI, reporting
+* **Analyse business** : SWOT, PESTEL, segmentation de marché, KPI, reportings 
 * **Bureautique** : Excel, PowerPoint
 
 
