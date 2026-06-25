@@ -13,13 +13,20 @@ chez **DCNS (aujourd'hui Naval Group)** avant de rejoindre **CNN MCO** où j'év
 depuis 10 ans — de logisticien à responsable logistique en 2017, avec des
 responsabilités croissantes en pilotage de la performance et en conduite de projets.
 
-J'accompagne les équipes projet et fonctions supports dans la définition de leurs
-besoins et le déploiement de tableaux de bord adaptés (suivi budgétaire, pointage,
-pilotage de projets). Ma connaissance transversale des processus et des métiers de
-l'entreprise m'a conduit à piloter des projets SI structurants : déploiement de
-**SAP Business One** (2023-2024) puis d'une **nouvelle GMAO** (Maintenance, Achats,
-Stocks, Ventes) — déployée avec succès en 2025. Je supervise aujourd'hui les
-évolutions numériques en cours : GMAO, CLM, PPM.
+En interface avec les équipes techniques terrain, les fonctions support
+(informatique, comptabilité, achats) et la direction, j'accompagne les équipes
+dans la définition de leurs besoins et le déploiement de tableaux de bord adaptés :
+suivi budgétaire, reporting financier, avancement technique, livrables documentaires,
+pointage des équipes. J'encadre également une cellule transport que j'ai créée,
+chargée de l'expédition de matériels pour les navires de la **marine nationale** —
+principalement vers les bases militaires des outre-mer.
+
+Ma connaissance transversale des processus et des métiers de l'entreprise m'a conduit
+à piloter des projets SI structurants — en assurant planification, suivi des coûts,
+animation d'ateliers et suivi d'avancement : déploiement de **SAP Business One**
+(2023-2024) puis d'une **nouvelle GMAO** (Maintenance, Achats, Stocks, Ventes) —
+déployée avec succès en 2025. Je supervise aujourd'hui les évolutions numériques
+en cours : GMAO, CLM, PPM.
 
 Passionné par la logistique, le numérique et la gestion de projet, je comprends
 les données parce que je comprends les opérations. La certification **Data Business
