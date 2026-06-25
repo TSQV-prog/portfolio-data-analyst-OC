@@ -69,7 +69,13 @@ maîtrise data font la différence.
 ## Formation
 
 **Data Business Analyst** — OpenClassrooms
-Depuis Octobre 2025
+Depuis octobre 2025
+
+**Formation Management** — CIEL / CCI de Brest
+Perfectionnement aux pratiques managériales
+
+**TESMEL** — Technicien Supérieur en Méthodes et Exploitation Logistique
+Brest, 2007-2008
 
 
 
