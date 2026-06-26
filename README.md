@@ -1,7 +1,7 @@
 # Portfolio Data Business Analyst
 
-Bienvenue sur mon portfolio !
-Ce dépôt regroupe les projets réalisés dans le cadre de ma formation **Data Business Analyst** chez OpenClassrooms.
+Ce portfolio présente mon parcours, mes compétences et les projets que j'ai
+réalisés en logistique, gestion de données et conduite de projets SI.
 
 
 
