@@ -24,9 +24,8 @@ principalement vers les bases militaires des outre-mer.
 Ma connaissance transversale des processus et des métiers de l'entreprise m'a conduit
 à piloter des projets SI structurants — en assurant planification, suivi des coûts,
 animation d'ateliers et suivi d'avancement : déploiement de **SAP Business One**
-(2023-2024) puis d'une **nouvelle GMAO** (Maintenance, Achats, Stocks, Ventes) —
-déployée avec succès en 2025. Je supervise aujourd'hui les évolutions numériques
-en cours : GMAO, CLM, PPM.
+(2023-2024) puis d'une GMAO **MisterMaint Fusion** (2024-2025) afin d'y intégrer les achats et de l'interfacer avec le logiciel comptable **SAGE**.
+Je supervise aujourd'hui les évolutions numériques suivantes : Suivi de contrat (CLM), gestion de projet (PPM), Gestion documentaire (GED)...
 
 Passionné par la logistique, le numérique et la gestion de projet, je comprends
 les données parce que je comprends les opérations. La certification **Data Business
