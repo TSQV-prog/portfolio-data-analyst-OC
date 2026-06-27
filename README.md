@@ -128,3 +128,37 @@ portfolio-data-analyst-OC/
 ├── projet-8-powerbi-performance-transports/
 └── projet-9-excel-ppt-segmentation-marche/
 ```
+
+## Veille métier & technologique
+
+### 📊 Business Intelligence & Power BI
+- **BIIST Pro** (biist.pro) — blog Power BI en français, tutoriels pratiques
+  et articles techniques (DAX, Power Query, modélisation)
+  *Pourquoi : contenu directement applicable à ma pratique Power BI quotidienne*
+
+- **FormationPowerBI.fr** — blog et tutoriels vidéo Power BI en français,
+  orientés professionnels finance et gestion
+  *Pourquoi : format court et pratique, cas d'usage proches de mon contexte*
+
+- **Microsoft Learn (fr)** (learn.microsoft.com/fr-fr) — documentation
+  officielle Power BI, SQL, Python en français
+  *Pourquoi : source de référence pour monter en compétences sur les outils*
+
+### 📈 Data & Analyse
+- **DataBird Blog** (data-bird.co/blog) — articles data analyse, Power BI,
+  Python en français, orientés montée en compétences
+  *Pourquoi : contenu pédagogique accessible, bon équilibre théorie/pratique*
+
+- **Business Cairn** (businesscairn.fr) — tendances BI et analytics en France,
+  veille marché mensuelle
+  *Pourquoi : vision marché et tendances utile pour les entretiens recruteurs*
+
+### 🏢 Métier BA/AMOA & Gestion de projet
+- **LinkedIn** — suivi de communautés "Business Analyst France",
+  "Power BI France", publications de professionnels AMOA
+  *Pourquoi : réseau professionnel et veille en temps réel sur les pratiques*
+
+### 📋 Réglementation & conformité
+- **CNIL.fr** — actualités RGPD, guides pratiques pour les entreprises
+  *Pourquoi : indispensable pour rester à jour sur les obligations légales
+  liées aux données*
