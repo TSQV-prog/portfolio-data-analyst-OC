@@ -133,36 +133,29 @@ portfolio-data-analyst-OC/
 
 ### 📊 Business Intelligence & Power BI
 
-- **[BIIST Pro](https://biist.pro/fr/blog-power-bi-en-francais)** — blog Power BI en français, tutoriels pratiques et articles techniques (DAX, Power Query, modélisation)
+- **[BIIST Pro](https://biist.pro/fr/blog-power-bi-en-francais)** — blog Power BI
+en français, tutoriels pratiques et articles techniques (DAX, Power Query, modélisation)
 
-  ❤️ Contenu directement applicable à ma pratique Power BI quotidienne
+- **[FormationPowerBI.fr](https://www.formationpowerbi.fr/guide-power-bi)** — blog
+et tutoriels vidéo Power BI en français, orientés professionnels finance et gestion
 
-- **[FormationPowerBI.fr](https://www.formationpowerbi.fr/guide-power-bi)** — blog et tutoriels vidéo Power BI en français, orientés professionnels finance et gestion
-
-  ❤️ Format court et pratique, cas d'usage proches de mon contexte
-
-- **[Microsoft Learn](https://learn.microsoft.com/fr-fr/power-bi/)** — documentation officielle Power BI, SQL, Python en français
-
-  ❤️ Source de référence pour monter en compétences sur les outils
+- **[Microsoft Learn](https://learn.microsoft.com/fr-fr/power-bi/)** — documentation
+officielle Power BI, SQL, Python en français
 
 ### 📈 Data & Analyse
 
-- **[DataBird Blog](https://www.data-bird.co/blog)** — articles data analyse, Power BI, Python en français, orientés montée en compétences
+- **[DataBird Blog](https://www.data-bird.co/blog)** — articles data analyse,
+Power BI, Python en français, orientés montée en compétences
 
-  ❤️ Contenu pédagogique accessible, bon équilibre théorie/pratique
-
-- **[Business Cairn](https://www.businesscairn.fr/blog)** — tendances BI et analytics en France, veille marché mensuelle
-
-  ❤️ Vision marché et tendances utile pour les entretiens recruteurs
+- **[Business Cairn](https://www.businesscairn.fr/blog)** — tendances BI et
+analytics en France, veille marché mensuelle
 
 ### 🏢 Métier BA/AMOA & Gestion de projet
 
-- **[Communauté Business Analyst France](https://www.linkedin.com/groups/12109697/)** — groupe LinkedIn dédié aux BA et AMOA francophones
-
-  ❤️ Réseau professionnel et veille en temps réel sur les pratiques métier
+- **[Communauté Business Analyst France](https://www.linkedin.com/groups/12109697/)** —
+groupe LinkedIn dédié aux BA et AMOA francophones
 
 ### 📋 Réglementation & conformité
 
-- **[CNIL](https://www.cnil.fr/fr/actualites)** — actualités RGPD, guides pratiques pour les entreprises
-
-  ❤️ Indispensable pour rester à jour sur les obligations légales liées aux données
+- **[CNIL](https://www.cnil.fr/fr/actualites)** — actualités RGPD, guides
+pratiques pour les entreprises
