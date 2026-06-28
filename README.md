@@ -59,41 +59,70 @@ maîtrise data font la différence.
 
 \---
 
-## 
+## Veille métier & technologique
 
-## Compétences & Outils
+Ma veille couvre 6 domaines clés : Business Intelligence, Data & Analyse,
+Méthodes BA & Agilité, Logistique & Transport, Réglementation et Métier BA/AMOA.
+Elle me permet de rester à jour sur les outils, les pratiques métier
+et les évolutions réglementaires de mon secteur.
 
-### 📊 Data & Reporting
-- **Power BI** — conception de tableaux de bord, modélisation de données, DAX
-- **Excel** — Power Query, fonctions avancées, mise en forme conditionnelle
-- **Python** — analyse de données (Pandas, Matplotlib, Plotly)
-- **SQL** — requêtes, jointures, création et gestion de bases de données (DBeaver, SQLite Studio)
+### 📊 Business Intelligence & Power BI
 
-### 🗂️ Outils métier & SI
-- **GMAO** — déploiement (chef de projet) et administration courante
-- **SAP Business One** — chef de projet déploiement
-- **Microsoft Project** — planification et suivi de projets
-- **Projektor** — gestion de projets et portefeuille
+- **[BIIST Pro](https://biist.pro/fr/blog-power-bi-en-francais)** — blog Power BI
+en français, tutoriels pratiques et articles techniques (DAX, Power Query, modélisation)
 
-### 🚀 Gestion de projet & AMOA
-- Conduite de projets SI : cadrage, planification, suivi des coûts, animation d'ateliers
-- Recueil et formalisation des besoins métier
-- Rédaction de documentation métier : tutoriels, cahiers métiers, supports utilisateurs
-- Interface équipes terrain / fonctions support / direction
-- Gestion de projet en environnement contraint (défense, maintenance navale)
+- **[FormationPowerBI.fr](https://www.formationpowerbi.fr/guide-power-bi)** — blog
+et tutoriels vidéo Power BI en français, orientés professionnels finance et gestion
 
-### 📦 Expertise métier
-- Gestion des stocks et approvisionnements
-- Logistique transport, import-export, fiscalité douanière
-- Analyse de la performance : KPI, indicateurs, reporting financier
-- Analyse business : SWOT, PESTEL, segmentation de marché
+- **[Microsoft Learn](https://learn.microsoft.com/fr-fr/power-bi/)** — documentation
+officielle Power BI, SQL, Python en français
 
-### 📋 Conformité & Réglementation
-- RGPD — collecte, conservation et anonymisation des données personnelles
+### 📈 Data & Analyse
 
-### 👥 Management
-- Encadrement d'équipe 
-- Communication multi-niveaux : équipes terrain → direction
+- **[DataBird Blog](https://www.data-bird.co/blog)** — articles data analyse,
+Power BI, Python en français, orientés montée en compétences
+
+- **[LeBigData.fr](https://www.lebigdata.fr)** — actualités Big Data, IA, Cloud
+et cybersécurité en français — tendances marché et cas d'usage concrets
+
+### 🚀 Méthodes BA & Agilité
+
+- **[Agiliste.fr](https://www.agiliste.fr)** — méthodes agiles appliquées aux
+projets SI — Scrum, Kanban, bonnes pratiques
+
+- **[IIBA France](https://www.iiba.org/fr)** — référentiel BABOK, standards et
+bonnes pratiques du métier Business Analyst
+
+### 🏢 Métier BA/AMOA
+
+- **[Communauté Business Analyst France](https://www.linkedin.com/groups/12109697/)** —
+groupe LinkedIn dédié aux BA et AMOA francophones
+
+### 📦 Logistique & Transport
+
+- **[Douane.gouv.fr](https://www.douane.gouv.fr)** — réglementation douanière
+française, procédures import/export — directement utile pour la gestion des
+expéditions outre-mer
+
+- **[Voxlog.fr](https://www.voxlog.fr)** — actualités logistique et supply chain
+en France — tendances et évolutions du secteur
+
+- **[Supply Chain Magazine](https://supplychainmagazine.fr)** — actualités supply
+chain, transport, logistique et international — innovations, WMS et tendances marché
+
+### 📋 Réglementation & Conformité
+
+- **[CNIL](https://www.cnil.fr/fr/actualites)** — actualités RGPD, guides
+pratiques pour les entreprises
+
+- **[Légifrance](https://www.legifrance.gouv.fr)** — textes de loi et
+réglementations en vigueur liés aux données et au numérique
+
+- **[ANSSI](https://www.ssi.gouv.fr)** — guides et recommandations sur la
+cybersécurité et la protection des SI — pertinent en contexte défense
+
+- **[AI Act Européen](https://artificialintelligenceact.eu)** — suivi du règlement
+européen sur l'IA — obligations et niveaux de risque pour les systèmes IA
 
 
 
