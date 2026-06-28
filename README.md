@@ -59,6 +59,79 @@ maîtrise data font la différence.
 
 \---
 
+
+## Compétences & Outils
+
+### 📊 Data & Reporting
+- **Power BI** — conception de tableaux de bord, modélisation de données, DAX
+- **Excel** — Power Query, fonctions avancées, mise en forme conditionnelle
+- **Python** — analyse de données (Pandas, Matplotlib, Plotly)
+- **SQL** — requêtes, jointures, création et gestion de bases de données
+(DBeaver, SQLite Studio)
+- **RGPD** — collecte, conservation et anonymisation des données personnelles
+
+### 🗂️ Outils métier & SI
+- **GMAO** — déploiement (chef de projet) et administration courante
+- **SAP Business One** — chef de projet déploiement
+- **Microsoft Project** — planification et suivi de projets
+- **Projektor** — gestion de projets et portefeuille
+
+### 🚀 Gestion de projet & AMOA
+- Conduite de projets SI : cadrage, planification, suivi des coûts,
+animation d'ateliers
+- Recueil et formalisation des besoins métier
+- Rédaction de documentation métier : tutoriels, cahiers métiers,
+supports utilisateurs
+- Rédaction de scénarii de recettage
+- Plan de management des risques
+- Interface équipes terrain / fonctions support / direction
+- Gestion de projet en environnement contraint (défense, maintenance navale)
+
+### 📦 Expertise métier
+- Gestion des stocks et approvisionnements
+- Logistique transport, import-export, fiscalité douanière
+- Analyse de la performance : KPI, indicateurs, reporting financier
+- Analyse business : SWOT, PESTEL, segmentation de marché
+
+### 👥 Management
+- Encadrement d'équipe (N+1 de 2 collaborateurs)
+- Communication multi-niveaux : équipes terrain → direction
+
+
+## Formation
+
+**Data Business Analyst** — OpenClassrooms
+Depuis octobre 2025
+
+**Formation Management** — CIEL / CCI de Brest
+Perfectionnement aux pratiques managériales
+
+**TESMEL** — Technicien Supérieur en Méthodes et Exploitation Logistique
+Brest, 2007-2008
+
+
+
+
+
+## Structure du dépôt
+```
+portfolio-data-analyst-OC/
+│
+├── README.md
+│
+├── projet-1-excel-sport/
+├── projet-2-sql-base-de-donnees/
+├── projet-3-rgpd-courtier-assurance/
+├── projet-4-sql-grande-distribution/
+├── projet-5-python-gestion-stocks/
+├── projet-6-powerbi-suivi-projets/
+├── projet-7-python-immobilier/
+├── projet-8-powerbi-performance-transports/
+└── projet-9-excel-ppt-segmentation-marche/
+```
+
+
+
 ## Veille métier & technologique
 
 Ma veille couvre 6 domaines clés : Business Intelligence, Data & Analyse,
@@ -123,68 +196,3 @@ cybersécurité et la protection des SI — pertinent en contexte défense
 
 - **[AI Act Européen](https://artificialintelligenceact.eu)** — suivi du règlement
 européen sur l'IA — obligations et niveaux de risque pour les systèmes IA
-
-
-
-## Formation
-
-**Data Business Analyst** — OpenClassrooms
-Depuis octobre 2025
-
-**Formation Management** — CIEL / CCI de Brest
-Perfectionnement aux pratiques managériales
-
-**TESMEL** — Technicien Supérieur en Méthodes et Exploitation Logistique
-Brest, 2007-2008
-
-
-
-
-
-## Structure du dépôt
-```
-portfolio-data-analyst-OC/
-│
-├── README.md
-│
-├── projet-1-excel-sport/
-├── projet-2-sql-base-de-donnees/
-├── projet-3-rgpd-courtier-assurance/
-├── projet-4-sql-grande-distribution/
-├── projet-5-python-gestion-stocks/
-├── projet-6-powerbi-suivi-projets/
-├── projet-7-python-immobilier/
-├── projet-8-powerbi-performance-transports/
-└── projet-9-excel-ppt-segmentation-marche/
-```
-
-## Veille métier & technologique
-
-### 📊 Business Intelligence & Power BI
-
-- **[BIIST Pro](https://biist.pro/fr/blog-power-bi-en-francais)** — blog Power BI
-en français, tutoriels pratiques et articles techniques (DAX, Power Query, modélisation)
-
-- **[FormationPowerBI.fr](https://www.formationpowerbi.fr/guide-power-bi)** — blog
-et tutoriels vidéo Power BI en français, orientés professionnels finance et gestion
-
-- **[Microsoft Learn](https://learn.microsoft.com/fr-fr/power-bi/)** — documentation
-officielle Power BI, SQL, Python en français
-
-### 📈 Data & Analyse
-
-- **[DataBird Blog](https://www.data-bird.co/blog)** — articles data analyse,
-Power BI, Python en français, orientés montée en compétences
-
-- **[Business Cairn](https://www.businesscairn.fr/blog)** — tendances BI et
-analytics en France, veille marché mensuelle
-
-### 🏢 Métier BA/AMOA & Gestion de projet
-
-- **[Communauté Business Analyst France](https://www.linkedin.com/groups/12109697/)** —
-groupe LinkedIn dédié aux BA et AMOA francophones
-
-### 📋 Réglementation & conformité
-
-- **[CNIL](https://www.cnil.fr/fr/actualites)** — actualités RGPD, guides
-pratiques pour les entreprises
