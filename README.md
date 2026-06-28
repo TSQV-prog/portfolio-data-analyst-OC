@@ -109,6 +109,12 @@ Ma veille couvre 6 domaines : Business Intelligence, Data & Analyse, Méthodes B
 
 ---
 
+## ⚖️ Mentions légales
+
+→ [Voir les mentions légales](./mentions-legales/)
+
+---
+
 ## 🗂️ Structure du dépôt
 
 ```
