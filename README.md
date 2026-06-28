@@ -1,123 +1,65 @@
-# Portfolio Data Business Analyst
-
-Ce portfolio présente mon parcours, mes compétences et les projets que j'ai
-réalisés en logistique, gestion de données et conduite de projets SI.
-
-
-
-## À propos de moi
-
-Je m'appelle **Thomas Secqueville**. Diplômé en méthodes et exploitation logistique
-(TESMEL, 2008), j'ai découvert la maintenance navale lors de missions en intérim
-chez **DCNS (aujourd'hui Naval Group)** avant de rejoindre **CNN MCO** où j'évolue
-depuis 10 ans — de logisticien à responsable logistique en 2017, avec des
-responsabilités croissantes en pilotage de la performance et en conduite de projets.
-
-En interface avec les équipes techniques terrain, les fonctions support
-(informatique, comptabilité, achats) et la direction, j'accompagne les équipes
-dans la définition de leurs besoins et le déploiement de tableaux de bord adaptés :
-suivi budgétaire, reporting financier, avancement technique, livrables documentaires,
-pointage des équipes. J'encadre également une cellule transport que j'ai créée,
-chargée de l'expédition de matériels pour les navires de la **marine nationale** —
-principalement vers les bases militaires des outre-mer.
-
-Ma connaissance transversale des processus et des métiers de l'entreprise m'a conduit
-à piloter des projets SI structurants — en assurant planification, suivi des coûts,
-animation d'ateliers et suivi d'avancement : déploiement de **SAP Business One**
-(2023-2024) puis d'une GMAO **MisterMaint Fusion** (2024-2025) afin d'y intégrer les achats et de l'interfacer avec le logiciel comptable **SAGE**.
-Je supervise aujourd'hui les évolutions numériques suivantes : Suivi de contrat (CLM), gestion de projet (PPM), Gestion documentaire (GED)...
-
-Passionné par la logistique, le numérique et la gestion de projet, je comprends
-les données parce que je comprends les opérations. La certification **Data Business
-Analyst** (OpenClassrooms, 2025) structure et formalise ces compétences — en y
-ajoutant Python, SQL et les méthodes d'analyse data.
-
-Mon objectif : un poste de **Business Analyst / AMOA** où expérience métier et
-maîtrise data font la différence.
-
-**Me contacter :**
-- 📧 [secqueville.thomas@gmail.com](mailto:secqueville.thomas@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-secqueville-21362222a/)
-
-
-
-
-
-## Projets
-
-|#|Projet|Outils|Description|
-|-|-|-|-|
-|1|[Maîtriser Excel et se perfectionner pour visualiser des données](./projet-1-excel-sport/)|Excel|Analyse de données sportives puis création de visuels pertinents et adaptés.|
-|2|[Créer et gérer une base de données](./projet-2-sql-base-de-donnees/)|DBeaver, SQLite Studio (SQL)|Création d'une base de données et de la documentation associée (dictionnaire de données, schéma relationnel), et de scripts SQL pour la gérer.|
-|3|[Collecter des données en respectant les normes RGPD](./projet-3-rgpd-courtier-assurance/)|DBeaver, SQLite Studio (SQL)|Mission de conseil auprès d'un courtier en assurance automobile : rapport et présentation sur la conformité RGPD des pratiques de collecte de données de l'équipe commerciale (nature des données, durées de conservation, rôles et responsabilités, anonymisation, suppression...).|
-|4|[Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)|DBeaver, SQLite Studio (SQL)|Mission chez BestMarket (grande distribution) : exploitation des données de retours et avis clients pour améliorer la qualité du réseau de magasins.|
-|5|[Optimiser la gestion des stocks d'une boutique](./projet-5-python-gestion-stocks/)|Python|Analyse des ventes et des stocks d'un caviste.|
-|6|[Créer un tableau de bord dynamique avec Power BI](./projet-6-powerbi-suivi-projets/)|Power BI|Mission en entreprise (MCO navires marine nationale) : tableau de bord avec indicateurs pour le suivi technique, budgétaire et l'avancement des livrables (comptes-rendus de travaux).|
-|7|[Analyser l'évolution des prix de l'immobilier](./projet-7-python-immobilier/)|Python|Mission chez ESN Data : analyse des données et corrélations des biens immobiliers, entraînement d'un algorithme de régression linéaire et prédiction de la valorisation des actifs.|
-|8|[Améliorer les performances de l'entreprise](./projet-8-powerbi-performance-transports/)|Power BI|Mission en entreprise (MCO navires marine nationale) : tableau de bord pour piloter l'activité de la cellule transports (alertes, reporting, KPI-clés).|
-|9|[Analyser une demande Business et identifier les segments de marché](./projet-9-excel-ppt-segmentation-marche/)|Excel, PowerPoint|Mission en entreprise (MCO navires marine nationale) : analyse des données de ventes (SWOT, PESTEL, analyse des segments, tendances actuelles et futures, préconisations).|
-
-\---
-
-
-## Compétences & Outils
-
-### 📊 Data & Reporting
-- **Power BI** — conception de tableaux de bord, modélisation de données, DAX
-- **Excel** — Power Query, fonctions avancées, mise en forme conditionnelle
-- **Python** — analyse de données (Pandas, Matplotlib, Plotly)
-- **SQL** — requêtes, jointures, création et gestion de bases de données
-(DBeaver, SQLite Studio)
-- **RGPD** — collecte, conservation et anonymisation des données personnelles
-
-### 🗂️ Outils métier & SI
-- **GMAO** — déploiement (chef de projet) et administration courante
-- **SAP Business One** — chef de projet déploiement
-- **Microsoft Project** — planification et suivi de projets
-- **Projektor** — gestion de projets et portefeuille
-
-### 🚀 Gestion de projet & AMOA
-- Conduite de projets SI : cadrage, planification, suivi des coûts,
-animation d'ateliers
-- Recueil et formalisation des besoins métier
-- Rédaction de documentation métier : tutoriels, cahiers métiers,
-supports utilisateurs
-- Rédaction de scénarii de recettage
-- Plan de management des risques
-- Interface équipes terrain / fonctions support / direction
-- Gestion de projet en environnement contraint (défense, maintenance navale)
-
-### 📦 Expertise métier
-- Gestion des stocks et approvisionnements
-- Logistique transport, import-export, fiscalité douanière
-- Analyse de la performance : KPI, indicateurs, reporting financier
-- Analyse business : SWOT, PESTEL, segmentation de marché
-
-### 👥 Management
-- Encadrement d'équipe (N+1 de 2 collaborateurs)
-- Communication multi-niveaux : équipes terrain → direction
-
-
-## Formation
-
-**Data Business Analyst** — OpenClassrooms
-Depuis octobre 2025
-
-**Formation Management** — CIEL / CCI de Brest
-Perfectionnement aux pratiques managériales
-
-**TESMEL** — Technicien Supérieur en Méthodes et Exploitation Logistique
-Brest, 2007-2008
-
-
-
-
-
-## Structure du dépôt
+Thomas Secqueville — Data Business Analyst · AMOA
+> *Je comprends les données **parce que** je comprends les opérations.*
+Responsable logistique pendant 10 ans dans la maintenance navale (Marine nationale), pilote de projets SI (SAP Business One, GMAO, GED), maintenant certifié Data Business Analyst (OpenClassrooms, 2025) — ce portfolio présente les compétences que j'ai développées et les preuves concrètes qui les illustrent.
+📧 secqueville.thomas@gmail.com · LinkedIn
+---
+Ce que je sais faire — en lien avec votre besoin
+#	Compétence	Ce que ça veut dire concrètement	Projet(s) associé(s)
+C1	Veille métier & technologique	Identifier les outils, méthodes et évolutions qui impactent mon secteur — et les tester	Veille →
+C2	Identifier les besoins métier	Recueillir, challenger et formaliser ce que les équipes terrain ont vraiment besoin, pas ce qu'elles demandent	P6 · P8 · P9
+C3	Rédiger un cahier des charges fonctionnel	Cadrer un projet data de A à Z : besoins, contraintes, solutions, recette	CDC →
+C4	Organiser un projet data	Planifier, suivre les coûts et l'avancement avec des outils adaptés (MS Project, Projektor)	P6 · P8
+C5	Accompagner les équipes	Former, rédiger des tutoriels et faire monter en compétences les utilisateurs sur de nouveaux outils	Docs →
+C6	Formaliser les procédures	Produire une documentation fiable, maintenable et compréhensible par tous	Docs → · P2 · P3
+C7	Posture consultant	Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair plutôt que prestataire	P3 · P9
+---
+Mes projets — preuves de compétences
+📊 Analyse de données
+Projet	Outils	Ce que ça démontre
+Analyser les données de la grande distribution	SQL	Exploitation de données clients pour améliorer la qualité réseau — posture conseil
+Analyser l'évolution des prix de l'immobilier	Python	Régression linéaire, corrélations, prédiction de valorisation d'actifs
+Maîtriser Excel pour visualiser des données	Excel	Analyse sportive, visuels adaptés au public
+🗂️ Gestion de données & conformité
+Projet	Outils	Ce que ça démontre
+Créer et gérer une base de données	SQL · DBeaver	Modélisation relationnelle, dictionnaire de données, scripts de gestion
+Collecter des données en respectant le RGPD	SQL	Audit RGPD, rapport de conformité, recommandations — rôle de consultant
+🚀 Pilotage & tableaux de bord (contexte réel : Marine nationale)
+Projet	Outils	Ce que ça démontre
+Tableau de bord de suivi de projets	Power BI	KPI technique, budgétaire, avancement livrables — contexte MCO navires
+Tableau de bord cellule transports	Power BI	Pilotage d'activité, alertes, reporting — cellule que j'ai créée et dirigée
+Analyser une demande Business	Excel · PowerPoint	SWOT, PESTEL, segmentation marché, préconisations stratégiques
+🐍 Automatisation & stocks
+Projet	Outils	Ce que ça démontre
+Optimiser la gestion des stocks d'une boutique	Python	Analyse des ventes et des stocks, automatisation des alertes
+---
+Profil en bref
+```
+10 ans      → Responsable logistique, CNN MCO (maintenance navale, Marine nationale)
+2023–2024   → Chef de projet déploiement SAP Business One
+2024–2025   → Chef de projet déploiement GMAO MisterMaint Fusion + interface SAGE
+2025        → Certification Data Business Analyst — OpenClassrooms
+```
+Outils maîtrisés : Power BI · Excel (Power Query, DAX) · Python (Pandas, Matplotlib, Plotly) · SQL (DBeaver, SQLite) · SAP Business One · MS Project · Projektor
+Secteurs : Défense · Maintenance navale · Logistique · Supply chain · SI industriels
+---
+Veille technologique & métier
+Ma veille couvre 6 domaines : Business Intelligence, Data & Analyse, Méthodes BA & Agilité, Logistique & Transport, Réglementation (RGPD, AI Act), Métier BA/AMOA.
+→ Accéder à la veille complète
+---
+Structure du dépôt
 ```
 portfolio-data-analyst-OC/
 │
-├── README.md
+├── README.md                          ← Vous êtes ici
+│
+├── cahier-des-charges/                ← C3 : CDC fonctionnel du portfolio
+│   └── README.md
+│
+├── documentation/                     ← C5 & C6 : procédures, tutoriels, supports utilisateurs
+│   └── README.md
+│
+├── veille/                            ← C1 : veille métier & technologique
+│   └── README.md
 │
 ├── projet-1-excel-sport/
 ├── projet-2-sql-base-de-donnees/
@@ -129,70 +71,3 @@ portfolio-data-analyst-OC/
 ├── projet-8-powerbi-performance-transports/
 └── projet-9-excel-ppt-segmentation-marche/
 ```
-
-
-
-## Veille métier & technologique
-
-Ma veille couvre 6 domaines clés : Business Intelligence, Data & Analyse,
-Méthodes BA & Agilité, Logistique & Transport, Réglementation et Métier BA/AMOA.
-Elle me permet de rester à jour sur les outils, les pratiques métier
-et les évolutions réglementaires de mon secteur.
-
-### 📊 Business Intelligence & Power BI
-
-- **[BIIST Pro](https://biist.pro/fr/blog-power-bi-en-francais)** — blog Power BI
-en français, tutoriels pratiques et articles techniques (DAX, Power Query, modélisation)
-
-- **[FormationPowerBI.fr](https://www.formationpowerbi.fr/guide-power-bi)** — blog
-et tutoriels vidéo Power BI en français, orientés professionnels finance et gestion
-
-- **[Microsoft Learn](https://learn.microsoft.com/fr-fr/power-bi/)** — documentation
-officielle Power BI, SQL, Python en français
-
-### 📈 Data & Analyse
-
-- **[DataBird Blog](https://www.data-bird.co/blog)** — articles data analyse,
-Power BI, Python en français, orientés montée en compétences
-
-- **[LeBigData.fr](https://www.lebigdata.fr)** — actualités Big Data, IA, Cloud
-et cybersécurité en français — tendances marché et cas d'usage concrets
-
-### 🚀 Méthodes BA & Agilité
-
-- **[Agiliste.fr](https://www.agiliste.fr)** — méthodes agiles appliquées aux
-projets SI — Scrum, Kanban, bonnes pratiques
-
-- **[IIBA France](https://www.iiba.org/fr)** — référentiel BABOK, standards et
-bonnes pratiques du métier Business Analyst
-
-### 🏢 Métier BA/AMOA
-
-- **[Communauté Business Analyst France](https://www.linkedin.com/groups/12109697/)** —
-groupe LinkedIn dédié aux BA et AMOA francophones
-
-### 📦 Logistique & Transport
-
-- **[Douane.gouv.fr](https://www.douane.gouv.fr)** — réglementation douanière
-française, procédures import/export — directement utile pour la gestion des
-expéditions outre-mer
-
-- **[Voxlog.fr](https://www.voxlog.fr)** — actualités logistique et supply chain
-en France — tendances et évolutions du secteur
-
-- **[Supply Chain Magazine](https://supplychainmagazine.fr)** — actualités supply
-chain, transport, logistique et international — innovations, WMS et tendances marché
-
-### 📋 Réglementation & Conformité
-
-- **[CNIL](https://www.cnil.fr/fr/actualites)** — actualités RGPD, guides
-pratiques pour les entreprises
-
-- **[Légifrance](https://www.legifrance.gouv.fr)** — textes de loi et
-réglementations en vigueur liés aux données et au numérique
-
-- **[ANSSI](https://www.ssi.gouv.fr)** — guides et recommandations sur la
-cybersécurité et la protection des SI — pertinent en contexte défense
-
-- **[AI Act Européen](https://artificialintelligenceact.eu)** — suivi du règlement
-européen sur l'IA — obligations et niveaux de risque pour les systèmes IA
