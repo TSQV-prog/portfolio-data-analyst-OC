@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thomas Secqueville — Data Business Analyst · AMOA</title>
+<style>
+  :root {
+    --navy:    #0B1C3A;
+    --navy-mid:#132748;
+    --steel:   #C0C8D4;
+    --amber:   #E8A020;
+    --amber-light: #F2B84B;
+    --white:   #F5F7FA;
+    --text:    #E8EDF3;
+    --muted:   #8A96A8;
+    --card:    #162D52;
+    --border:  #243E6A;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: var(--navy);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  /* ── NAV ─────────────────────────────────────────── */
+  nav {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(11,28,58,0.96);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 2rem; height: 56px;
+  }
+  .nav-brand {
+    font-size: .85rem; font-weight: 600; letter-spacing: .08em;
+    color: var(--amber); text-transform: uppercase;
+  }
+  .nav-links { display: flex; gap: 1.8rem; list-style: none; }
+  .nav-links a {
+    font-size: .82rem; color: var(--steel); text-decoration: none;
+    letter-spacing: .04em; transition: color .2s;
+  }
+  .nav-links a:hover { color: var(--amber); }
+
+  /* ── HERO ────────────────────────────────────────── */
+  .hero {
+    min-height: 88vh;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 5rem 2rem 4rem;
+    max-width: 960px; margin: 0 auto;
+    position: relative;
+  }
+
+  .hero-eyebrow {
+    font-size: .75rem; font-weight: 700; letter-spacing: .2em;
+    color: var(--amber); text-transform: uppercase; margin-bottom: 1.6rem;
+  }
+
+  .hero-headline {
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    font-weight: 300; line-height: 1.2;
+    color: var(--white); margin-bottom: 1rem;
+  }
+  .hero-headline strong { font-weight: 700; }
+  .hero-headline em {
+    font-style: italic; color: var(--amber); font-weight: 400;
+  }
+
+  .hero-sub {
+    font-size: 1rem; color: var(--steel); max-width: 600px;
+    margin-bottom: 2.4rem; line-height: 1.75;
+  }
+
+  .hero-tags {
+    display: flex; flex-wrap: wrap; gap: .6rem; margin-bottom: 2.8rem;
+  }
+  .tag {
+    font-size: .72rem; font-weight: 600; letter-spacing: .06em;
+    text-transform: uppercase; padding: .3rem .75rem;
+    border: 1px solid var(--border); border-radius: 3px;
+    color: var(--steel);
+  }
+  .tag-amber { border-color: var(--amber); color: var(--amber); }
+
+  .hero-cta { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .btn {
+    padding: .7rem 1.5rem; font-size: .82rem; font-weight: 600;
+    letter-spacing: .06em; text-transform: uppercase;
+    text-decoration: none; border-radius: 4px;
+    cursor: pointer; transition: all .2s;
+  }
+  .btn-primary {
+    background: var(--amber); color: var(--navy);
+    border: 2px solid var(--amber);
+  }
+  .btn-primary:hover { background: var(--amber-light); border-color: var(--amber-light); }
+  .btn-secondary {
+    background: transparent; color: var(--steel);
+    border: 2px solid var(--border);
+  }
+  .btn-secondary:hover { border-color: var(--steel); color: var(--white); }
+
+  /* ── STAT BAND ───────────────────────────────────── */
+  .stats {
+    background: var(--navy-mid);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 2.2rem 2rem;
+  }
+  .stats-inner {
+    max-width: 960px; margin: 0 auto;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 2rem;
+  }
+  .stat { text-align: center; }
+  .stat-num {
+    display: block; font-size: 2.2rem; font-weight: 700;
+    color: var(--amber); line-height: 1;
+  }
+  .stat-label {
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .1em;
+    color: var(--muted); margin-top: .4rem;
+  }
+
+  /* ── SECTION BASE ────────────────────────────────── */
+  section { padding: 5rem 2rem; }
+  .inner { max-width: 960px; margin: 0 auto; }
+  .section-label {
+    font-size: .72rem; font-weight: 700; letter-spacing: .18em;
+    text-transform: uppercase; color: var(--amber);
+    margin-bottom: .6rem;
+  }
+  .section-title {
+    font-size: 1.7rem; font-weight: 700; color: var(--white);
+    margin-bottom: 1rem;
+  }
+  .section-intro {
+    color: var(--steel); max-width: 620px; margin-bottom: 2.5rem;
+    font-size: .95rem;
+  }
+  .divider {
+    border: none; border-top: 1px solid var(--border); margin: 0;
+  }
+
+  /* ── COMPETENCES ─────────────────────────────────── */
+  #competences { background: var(--navy); }
+
+  .comp-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+  }
+  .comp-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.4rem;
+    transition: border-color .2s, transform .2s;
+  }
+  .comp-card:hover {
+    border-color: var(--amber);
+    transform: translateY(-2px);
+  }
+  .comp-num {
+    font-size: .68rem; font-weight: 700; letter-spacing: .14em;
+    color: var(--amber); text-transform: uppercase; margin-bottom: .5rem;
+  }
+  .comp-title {
+    font-size: .95rem; font-weight: 700; color: var(--white);
+    margin-bottom: .5rem;
+  }
+  .comp-desc { font-size: .82rem; color: var(--steel); line-height: 1.55; }
+
+  /* ── PROJETS ─────────────────────────────────────── */
+  #projets { background: var(--navy-mid); }
+
+  .proj-group { margin-bottom: 2.5rem; }
+  .proj-group-title {
+    font-size: .72rem; font-weight: 700; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: .5rem; margin-bottom: 1rem;
+  }
+  .proj-list { display: flex; flex-direction: column; gap: .6rem; }
+  .proj-item {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: 1rem;
+    padding: .9rem 1.1rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    text-decoration: none;
+    transition: border-color .2s;
+  }
+  .proj-item:hover { border-color: var(--amber); }
+  .proj-name {
+    font-size: .88rem; font-weight: 600; color: var(--white);
+    margin-bottom: .2rem;
+  }
+  .proj-desc { font-size: .78rem; color: var(--muted); }
+  .proj-tools {
+    display: flex; gap: .4rem; flex-wrap: wrap; justify-content: flex-end;
+  }
+  .tool-badge {
+    font-size: .65rem; font-weight: 600; letter-spacing: .06em;
+    text-transform: uppercase; padding: .2rem .55rem;
+    border: 1px solid var(--border); border-radius: 3px;
+    color: var(--muted); white-space: nowrap;
+  }
+  .tool-badge.amber { border-color: #5a4010; color: var(--amber); }
+
+  /* ── PROFIL ──────────────────────────────────────── */
+  #profil { background: var(--navy); }
+
+  .timeline {
+    position: relative;
+    padding-left: 1.6rem;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute; left: 0; top: 6px; bottom: 0;
+    width: 2px; background: var(--border);
+  }
+  .tl-item {
+    position: relative;
+    padding-bottom: 1.6rem;
+  }
+  .tl-item::before {
+    content: '';
+    position: absolute; left: -1.68rem; top: 6px;
+    width: 10px; height: 10px;
+    border-radius: 50%; background: var(--navy-mid);
+    border: 2px solid var(--border);
+  }
+  .tl-item.highlight::before { background: var(--amber); border-color: var(--amber); }
+  .tl-date {
+    font-size: .7rem; font-weight: 700; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--amber); margin-bottom: .2rem;
+  }
+  .tl-title {
+    font-size: .92rem; font-weight: 700; color: var(--white); margin-bottom: .2rem;
+  }
+  .tl-detail { font-size: .82rem; color: var(--steel); }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.2rem; margin-top: 2rem;
+  }
+  .skill-group-title {
+    font-size: .7rem; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--muted); margin-bottom: .6rem;
+  }
+  .skill-chips { display: flex; flex-wrap: wrap; gap: .35rem; }
+  .chip {
+    font-size: .72rem; padding: .22rem .6rem;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 3px; color: var(--steel);
+  }
+
+  /* ── VEILLE ──────────────────────────────────────── */
+  #veille { background: var(--navy-mid); }
+
+  .veille-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: .8rem;
+  }
+  .veille-card {
+    padding: 1rem 1.1rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+  }
+  .veille-cat {
+    font-size: .7rem; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--amber); margin-bottom: .6rem;
+  }
+  .veille-sources { list-style: none; }
+  .veille-sources li {
+    font-size: .8rem; color: var(--steel);
+    padding: .18rem 0;
+    border-top: 1px solid var(--border);
+  }
+  .veille-sources li:first-child { border-top: none; }
+  .veille-sources a { color: var(--steel); text-decoration: none; }
+  .veille-sources a:hover { color: var(--amber); }
+
+  /* ── CONTACT ─────────────────────────────────────── */
+  #contact {
+    background: var(--navy);
+    text-align: center;
+    padding: 5rem 2rem;
+  }
+  #contact .section-title { font-size: 1.4rem; margin-bottom: .8rem; }
+  #contact .section-intro { margin: 0 auto 2rem; }
+  .contact-links { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+  /* ── FOOTER ──────────────────────────────────────── */
+  footer {
+    background: var(--navy-mid);
+    border-top: 1px solid var(--border);
+    text-align: center;
+    padding: 1.4rem;
+    font-size: .75rem;
+    color: var(--muted);
+  }
+
+  /* ── RESPONSIVE ──────────────────────────────────── */
+  @media (max-width: 640px) {
+    .nav-links { display: none; }
+    .proj-item { grid-template-columns: 1fr; }
+    .proj-tools { justify-content: flex-start; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <span class="nav-brand">Thomas Secqueville</span>
+  <ul class="nav-links">
+    <li><a href="#competences">Compétences</a></li>
+    <li><a href="#projets">Projets</a></li>
+    <li><a href="#profil">Profil</a></li>
+    <li><a href="#veille">Veille</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="accueil">
+  <p class="hero-eyebrow">Portfolio · Data Business Analyst · AMOA</p>
+  <h1 class="hero-headline">
+    Je comprends les données<br>
+    <em>parce que</em> je comprends<br>
+    <strong>les opérations.</strong>
+  </h1>
+  <p class="hero-sub">
+    10 ans de terrain en maintenance navale. Chef de projet SAP, GMAO, GED.
+    Aujourd'hui certifié Data Business Analyst — pour transformer l'expérience métier
+    en valeur analytique.
+  </p>
+  <div class="hero-tags">
+    <span class="tag tag-amber">Power BI</span>
+    <span class="tag tag-amber">Python · SQL</span>
+    <span class="tag">Marine nationale</span>
+    <span class="tag">SAP Business One</span>
+    <span class="tag">RGPD</span>
+    <span class="tag">Gestion de projet SI</span>
+  </div>
+  <div class="hero-cta">
+    <a href="#projets" class="btn btn-primary">Voir les projets</a>
+    <a href="#contact" class="btn btn-secondary">Me contacter</a>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- STATS -->
+<div class="stats">
+  <div class="stats-inner">
+    <div class="stat">
+      <span class="stat-num">10</span>
+      <span class="stat-label">ans en logistique opérationnelle</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num">3</span>
+      <span class="stat-label">projets SI pilotés (SAP, GMAO, GED)</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num">9</span>
+      <span class="stat-label">projets data réalisés</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num">7</span>
+      <span class="stat-label">compétences certifiées</span>
+    </div>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- COMPETENCES -->
+<section id="competences">
+  <div class="inner">
+    <p class="section-label">Compétences</p>
+    <h2 class="section-title">Ce que je sais faire</h2>
+    <p class="section-intro">
+      7 compétences structurantes pour un profil Data Analyst / AMOA —
+      chacune illustrée par des livrables concrets dans les projets ci-dessous.
+    </p>
+    <div class="comp-grid">
+
+      <div class="comp-card">
+        <p class="comp-num">C1 · Veille</p>
+        <p class="comp-title">Veille métier & technologique</p>
+        <p class="comp-desc">Identifier les outils, méthodes et évolutions utiles à mon secteur — et les tester concrètement.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C2 · Besoins</p>
+        <p class="comp-title">Identifier les besoins métier</p>
+        <p class="comp-desc">Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin — pas ce qu'elles demandent.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C3 · CDC</p>
+        <p class="comp-title">Cahier des charges fonctionnel</p>
+        <p class="comp-desc">Cadrer un projet data de A à Z : besoins, contraintes, solutions envisagées, critères de recette.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C4 · Projet</p>
+        <p class="comp-title">Organiser un projet data</p>
+        <p class="comp-desc">Planifier, suivre les coûts et l'avancement avec les bons outils — MS Project, Projektor, tableaux de bord.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C5 · Équipes</p>
+        <p class="comp-title">Accompagner les équipes</p>
+        <p class="comp-desc">Former, rédiger des tutoriels clairs, faire monter en compétences les utilisateurs sur de nouveaux outils.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C6 · Documentation</p>
+        <p class="comp-title">Formaliser les procédures</p>
+        <p class="comp-desc">Produire une documentation fiable, maintenable et compréhensible par tous — de l'opérateur à la direction.</p>
+      </div>
+
+      <div class="comp-card">
+        <p class="comp-num">C7 · Consultant</p>
+        <p class="comp-title">Posture consultant</p>
+        <p class="comp-desc">Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair plutôt que simple prestataire.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- PROJETS -->
+<section id="projets">
+  <div class="inner">
+    <p class="section-label">Projets</p>
+    <h2 class="section-title">Preuves de compétences</h2>
+    <p class="section-intro">
+      9 projets réalisés dans le cadre de la certification OpenClassrooms,
+      dont 3 directement issus de mon contexte professionnel (MCO navires, Marine nationale).
+    </p>
+
+    <div class="proj-group">
+      <p class="proj-group-title">📊 Analyse de données</p>
+      <div class="proj-list">
+        <a href="./projet-4-sql-grande-distribution/" class="proj-item">
+          <div>
+            <p class="proj-name">Analyser les données de la grande distribution</p>
+            <p class="proj-desc">Exploitation des retours clients pour améliorer la qualité réseau — posture conseil</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge">SQL</span>
+            <span class="tool-badge">DBeaver</span>
+          </div>
+        </a>
+        <a href="./projet-7-python-immobilier/" class="proj-item">
+          <div>
+            <p class="proj-name">Analyser l'évolution des prix de l'immobilier</p>
+            <p class="proj-desc">Régression linéaire, corrélations, prédiction de valorisation d'actifs</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge amber">Python</span>
+          </div>
+        </a>
+        <a href="./projet-1-excel-sport/" class="proj-item">
+          <div>
+            <p class="proj-name">Maîtriser Excel pour visualiser des données</p>
+            <p class="proj-desc">Analyse de données sportives, visuels adaptés au public cible</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge">Excel</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="proj-group">
+      <p class="proj-group-title">🗂️ Gestion de données & conformité</p>
+      <div class="proj-list">
+        <a href="./projet-2-sql-base-de-donnees/" class="proj-item">
+          <div>
+            <p class="proj-name">Créer et gérer une base de données</p>
+            <p class="proj-desc">Modélisation relationnelle, dictionnaire de données, scripts SQL de gestion</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge">SQL</span>
+            <span class="tool-badge">DBeaver</span>
+          </div>
+        </a>
+        <a href="./projet-3-rgpd-courtier-assurance/" class="proj-item">
+          <div>
+            <p class="proj-name">Collecter des données en respectant le RGPD</p>
+            <p class="proj-desc">Audit RGPD, rapport de conformité et recommandations — rôle de consultant</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge">SQL</span>
+            <span class="tool-badge">RGPD</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="proj-group">
+      <p class="proj-group-title">🚀 Pilotage & tableaux de bord — contexte réel Marine nationale</p>
+      <div class="proj-list">
+        <a href="./projet-6-powerbi-suivi-projets/" class="proj-item">
+          <div>
+            <p class="proj-name">Tableau de bord de suivi de projets</p>
+            <p class="proj-desc">KPI technique, budgétaire, avancement livrables — MCO navires Marine nationale</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge amber">Power BI</span>
+          </div>
+        </a>
+        <a href="./projet-8-powerbi-performance-transports/" class="proj-item">
+          <div>
+            <p class="proj-name">Tableau de bord cellule transports</p>
+            <p class="proj-desc">Pilotage d'activité, alertes, reporting — cellule créée et dirigée par moi</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge amber">Power BI</span>
+          </div>
+        </a>
+        <a href="./projet-9-excel-ppt-segmentation-marche/" class="proj-item">
+          <div>
+            <p class="proj-name">Analyser une demande Business et segmenter le marché</p>
+            <p class="proj-desc">SWOT, PESTEL, segmentation, tendances et préconisations stratégiques</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge">Excel</span>
+            <span class="tool-badge">PowerPoint</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="proj-group">
+      <p class="proj-group-title">🐍 Automatisation</p>
+      <div class="proj-list">
+        <a href="./projet-5-python-gestion-stocks/" class="proj-item">
+          <div>
+            <p class="proj-name">Optimiser la gestion des stocks d'une boutique</p>
+            <p class="proj-desc">Analyse des ventes et stocks, automatisation des alertes de réapprovisionnement</p>
+          </div>
+          <div class="proj-tools">
+            <span class="tool-badge amber">Python</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- PROFIL -->
+<section id="profil">
+  <div class="inner" style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:start;">
+
+    <div>
+      <p class="section-label">Parcours</p>
+      <h2 class="section-title">10 ans de terrain avant la data</h2>
+      <div class="timeline">
+        <div class="tl-item highlight">
+          <p class="tl-date">2025 →</p>
+          <p class="tl-title">Data Business Analyst — OpenClassrooms</p>
+          <p class="tl-detail">Certification + Python, SQL, Power BI, méthodes BA</p>
+        </div>
+        <div class="tl-item highlight">
+          <p class="tl-date">2024–2025</p>
+          <p class="tl-title">Chef de projet GMAO MisterMaint Fusion</p>
+          <p class="tl-detail">Déploiement + interface SAGE comptabilité, CNN MCO</p>
+        </div>
+        <div class="tl-item highlight">
+          <p class="tl-date">2023–2024</p>
+          <p class="tl-title">Chef de projet SAP Business One</p>
+          <p class="tl-detail">Déploiement complet ERP, CNN MCO</p>
+        </div>
+        <div class="tl-item">
+          <p class="tl-date">2017–2023</p>
+          <p class="tl-title">Responsable Logistique, CNN MCO</p>
+          <p class="tl-detail">Pilotage performance, cellule transport Marine nationale, encadrement équipe</p>
+        </div>
+        <div class="tl-item">
+          <p class="tl-date">2014–2017</p>
+          <p class="tl-title">Logisticien, CNN MCO</p>
+          <p class="tl-detail">Gestion stocks & approvisionnements, maintenance navale</p>
+        </div>
+        <div class="tl-item">
+          <p class="tl-date">2008–2014</p>
+          <p class="tl-title">Logisticien intérim — Naval Group (DCNS)</p>
+          <p class="tl-detail">Découverte de la maintenance navale, logistique industrielle</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <p class="section-label" style="opacity:0">_</p>
+      <h2 class="section-title">Outils & compétences</h2>
+      <div class="skills-grid">
+        <div>
+          <p class="skill-group-title">Data & Reporting</p>
+          <div class="skill-chips">
+            <span class="chip">Power BI</span>
+            <span class="chip">DAX</span>
+            <span class="chip">Excel</span>
+            <span class="chip">Power Query</span>
+            <span class="chip">Python</span>
+            <span class="chip">Pandas</span>
+            <span class="chip">SQL</span>
+          </div>
+        </div>
+        <div>
+          <p class="skill-group-title">Projets SI</p>
+          <div class="skill-chips">
+            <span class="chip">SAP Business One</span>
+            <span class="chip">GMAO</span>
+            <span class="chip">MS Project</span>
+            <span class="chip">Projektor</span>
+            <span class="chip">GED</span>
+            <span class="chip">CLM</span>
+          </div>
+        </div>
+        <div>
+          <p class="skill-group-title">Réglementation</p>
+          <div class="skill-chips">
+            <span class="chip">RGPD</span>
+            <span class="chip">Douanes</span>
+            <span class="chip">ANSSI</span>
+            <span class="chip">AI Act</span>
+          </div>
+        </div>
+        <div>
+          <p class="skill-group-title">Méthodes</p>
+          <div class="skill-chips">
+            <span class="chip">BABOK</span>
+            <span class="chip">AMOA</span>
+            <span class="chip">SWOT / PESTEL</span>
+            <span class="chip">Recettage</span>
+            <span class="chip">Ateliers besoins</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- VEILLE -->
+<section id="veille">
+  <div class="inner">
+    <p class="section-label">Veille</p>
+    <h2 class="section-title">Ce que je lis & surveille</h2>
+    <p class="section-intro">
+      6 domaines de veille — mise à jour régulière pour rester à jour sur les outils,
+      les pratiques métier et les évolutions réglementaires.
+    </p>
+    <div class="veille-grid">
+
+      <div class="veille-card">
+        <p class="veille-cat">📊 Business Intelligence</p>
+        <ul class="veille-sources">
+          <li><a href="https://biist.pro/fr/blog-power-bi-en-francais" target="_blank">BIIST Pro</a></li>
+          <li><a href="https://www.formationpowerbi.fr" target="_blank">FormationPowerBI.fr</a></li>
+          <li><a href="https://learn.microsoft.com/fr-fr/power-bi/" target="_blank">Microsoft Learn</a></li>
+        </ul>
+      </div>
+
+      <div class="veille-card">
+        <p class="veille-cat">📈 Data & Analyse</p>
+        <ul class="veille-sources">
+          <li><a href="https://www.data-bird.co/blog" target="_blank">DataBird Blog</a></li>
+          <li><a href="https://www.lebigdata.fr" target="_blank">LeBigData.fr</a></li>
+        </ul>
+      </div>
+
+      <div class="veille-card">
+        <p class="veille-cat">🚀 Méthodes BA & Agilité</p>
+        <ul class="veille-sources">
+          <li><a href="https://www.agiliste.fr" target="_blank">Agiliste.fr</a></li>
+          <li><a href="https://www.iiba.org/fr" target="_blank">IIBA France</a></li>
+        </ul>
+      </div>
+
+      <div class="veille-card">
+        <p class="veille-cat">🏢 Métier BA/AMOA</p>
+        <ul class="veille-sources">
+          <li><a href="https://www.linkedin.com/groups/12109697/" target="_blank">Communauté BA France</a></li>
+        </ul>
+      </div>
+
+      <div class="veille-card">
+        <p class="veille-cat">📦 Logistique & Transport</p>
+        <ul class="veille-sources">
+          <li><a href="https://www.douane.gouv.fr" target="_blank">Douane.gouv.fr</a></li>
+          <li><a href="https://www.voxlog.fr" target="_blank">Voxlog.fr</a></li>
+          <li><a href="https://supplychainmagazine.fr" target="_blank">Supply Chain Magazine</a></li>
+        </ul>
+      </div>
+
+      <div class="veille-card">
+        <p class="veille-cat">📋 Réglementation</p>
+        <ul class="veille-sources">
+          <li><a href="https://www.cnil.fr" target="_blank">CNIL</a></li>
+          <li><a href="https://www.legifrance.gouv.fr" target="_blank">Légifrance</a></li>
+          <li><a href="https://www.ssi.gouv.fr" target="_blank">ANSSI</a></li>
+          <li><a href="https://artificialintelligenceact.eu" target="_blank">AI Act Européen</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="inner">
+    <p class="section-label">Contact</p>
+    <h2 class="section-title">Parlons-en</h2>
+    <p class="section-intro">
+      Disponible pour un poste de Business Analyst / AMOA où l'expérience métier
+      et la maîtrise data font la différence.
+    </p>
+    <div class="contact-links">
+      <a href="mailto:secqueville.thomas@gmail.com" class="btn btn-primary">
+        ✉ secqueville.thomas@gmail.com
+      </a>
+      <a href="https://www.linkedin.com/in/thomas-secqueville-21362222a/" target="_blank" class="btn btn-secondary">
+        LinkedIn →
+      </a>
+      <a href="https://github.com/TSQV-prog/portfolio-data-analyst-OC" target="_blank" class="btn btn-secondary">
+        GitHub →
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  Thomas Secqueville · Data Business Analyst · Portfolio OpenClassrooms 2025
+</footer>
+
+</body>
+</html>
