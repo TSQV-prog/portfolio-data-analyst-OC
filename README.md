@@ -15,7 +15,7 @@ Identifier les outils, méthodes et évolutions utiles à mon secteur — et les
 → [Voir la veille](./veille/)
 
 ### C2 · Identifier les besoins métier
-Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin — pas ce qu'elles demandent.
+Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin
 → Projets [P6](./projet-6-powerbi-suivi-projets/) · [P8](./projet-8-powerbi-performance-transports/) · [P9](./projet-9-excel-ppt-segmentation-marche/)
 
 ### C3 · Rédiger un cahier des charges fonctionnel
