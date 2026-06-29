@@ -92,7 +92,7 @@ Challenger les besoins exprimés, proposer des alternatives, se positionner comm
 2024–2025   Chef de projet GMAO MisterMaint Fusion + interface SAGE
 2023–2024   Chef de projet SAP Business One — CNN MCO
 2017–2023   Responsable Logistique — CNN MCO (Marine nationale)
-2008–2017   Logisticien — CNN MCO / Naval Group (DCNS)
+2012–2017   Logisticien — CNN MCO / Naval Group (DCNS)
 ```
 
 **Outils :** Power BI · Excel · Python · SQL · SAP Business One · MS Project · Projektor
