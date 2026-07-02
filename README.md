@@ -20,6 +20,7 @@ Traduire les besoins métier en spécifications fonctionnelles détaillées : ca
 
 ### 🗓️ Pilotage de projet & gouvernance
 Planifier, suivre les coûts, produire WBS, rétroplanning et PMR. Animer les revues de jalons avec le client et coordonner les experts (Data Engineer, ML Engineer, PMO).
+→ [exemple d'une planification](./Gantt_projet_global/)
 
 ### 📊 Analyse de données & aide à la décision
 Exploiter les données pour produire des tableaux de bord, KPI et reportings actionnables (Power BI, Python, SQL, Excel). Transformer la donnée brute en information stratégique.
