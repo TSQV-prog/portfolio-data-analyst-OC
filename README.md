@@ -87,7 +87,8 @@ SWOT, PESTEL, segmentation, préconisations stratégiques
 ### 🐍 Automatisation
 
 **[P5 — Optimiser la gestion des stocks d'une boutique](./projet-5-python-gestion-stocks/)**
-`Python`.\Analyse des ventes et stocks, automatisation des alertes de réapprovisionnement
+`Python`.\
+Analyse des ventes et stocks, automatisation des alertes de réapprovisionnement
 
 ---
 
