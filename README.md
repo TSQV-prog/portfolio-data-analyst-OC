@@ -43,59 +43,119 @@ Challenger les besoins exprimés, proposer des alternatives réalistes et se pos
 
 ## 📁 Projets — Preuves de compétences
 
-### 🔍 Analyse & recueil des besoins métier
+### 🔍 Comprendre le besoin métier & cadrer la demande
 
 **[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
-`Excel · PowerPoint`\
-SWOT, PESTEL, segmentation de marché, identification des besoins et préconisations stratégiques — contexte réel MCO navires Marine nationale
+`Excel · PowerPoint · Analyse stratégique · Besoin métier`\
+Analyse d’un besoin business, étude de marché, SWOT, PESTEL, segmentation et formulation de préconisations stratégiques.  
+Projet réalisé dans un contexte proche de mon environnement professionnel : maintenance navale, MCO et relation client.
+
+**Compétences démontrées :**
+- analyse d’un contexte métier ;
+- identification des enjeux business ;
+- structuration d’un raisonnement stratégique ;
+- formulation de recommandations compréhensibles par un décideur.
 
 ---
 
-### 📋 Rédaction des spécifications fonctionnelles
+### 📋 Formaliser les règles métier, les contraintes et les spécifications
 
 **[P3 — Collecter des données en respectant le RGPD](./projet-3-rgpd-courtier-assurance/)**
-`SQL · RGPD`\
-Audit de conformité, rapport de recommandations et spécifications des règles de gestion — rôle de consultant
+`SQL · RGPD · Spécifications fonctionnelles · Règles de gestion`\
+Analyse d’un besoin de collecte de données dans un contexte réglementé. Formalisation des règles de gestion, identification des contraintes RGPD et rédaction de recommandations fonctionnelles.
+
+**Compétences démontrées :**
+- analyse des contraintes réglementaires ;
+- formalisation de règles de gestion ;
+- traduction d’un besoin métier en exigences fonctionnelles ;
+- prise en compte de la conformité dès la conception.
+
+---
+
+### 🗄️ Modéliser et structurer les données
 
 **[P2 — Créer et gérer une base de données](./projet-2-sql-base-de-donnees/)**
-`SQL · DBeaver`\
-Modélisation relationnelle, dictionnaire de données, scripts SQL — formalisation des règles métier en spécifications techniques
+`SQL · DBeaver · Modélisation relationnelle · Base de données`\
+Conception d’une base de données relationnelle à partir d’un besoin métier : identification des entités, création des tables, définition des clés primaires et étrangères, relations entre tables, dictionnaire de données et scripts SQL.
+
+**Compétences démontrées :**
+- compréhension d’un schéma relationnel ;
+- identification des entités métier et des attributs ;
+- définition des tables, clés primaires et clés étrangères ;
+- traduction de règles métier en modèle de données ;
+- documentation de la structure de données via un dictionnaire.
 
 ---
 
-### 🗓️ Création de tableaux de bord pour pilotage des activités
-
-**[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
-`Power BI`\
-KPI technique, budgétaire et avancement livrables — pilotage MCO navires Marine nationale
-
-**[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
-`Power BI`\
-Pilotage d'activité, alertes et reporting — cellule transports créée et dirigée en conditions réelles
-
----
-
-### 📊 Analyse de données & aide à la décision
+### 📊 Exploiter les données et produire des analyses
 
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
-`SQL`\
-Exploitation des retours clients pour identifier les axes d'amélioration du réseau — posture conseil
+`SQL · Analyse métier · Requêtes relationnelles`\
+Exploitation de données issues d’un réseau de magasins afin d’identifier des axes d’amélioration. Utilisation de requêtes SQL pour interroger, croiser et analyser les données.
 
-**[P7 — Analyser l'évolution des prix de l'immobilier](./projet-7-python-immobilier/)**
-`Python`\
-Régression linéaire, corrélations et prédiction de valorisation d'actifs — aide à la décision
+**Compétences démontrées :**
+- interrogation de bases relationnelles ;
+- jointures et croisements de données ;
+- analyse orientée métier ;
+- identification d’axes d’amélioration à partir des données.
 
-**[P1 — Analyser la performance d'équipes sportives et professionnelles](./projet-1-excel-sport/)**
-`Excel`\
-Analyse de données sportives et création de visuels adaptés au public cible
+**[P7 — Analyser l’évolution des prix de l’immobilier](./projet-7-python-immobilier/)**
+`Python · Statistiques · Régression linéaire · Analyse prédictive`\
+Analyse de données immobilières, étude des corrélations, modélisation simple et estimation de la valeur d’un actif à partir de variables explicatives.
+
+**Compétences démontrées :**
+- nettoyage et préparation de données ;
+- analyse statistique ;
+- identification de corrélations ;
+- utilisation d’un modèle prédictif simple pour l’aide à la décision.
+
+**[P1 — Analyser la performance d’équipes sportives et professionnelles](./projet-1-excel-sport/)**
+`Excel · Analyse comparative · Data visualisation`\
+Analyse de données de performance et création de visuels adaptés au public cible.
+
+**Compétences démontrées :**
+- analyse exploratoire simple ;
+- comparaison d’indicateurs ;
+- restitution visuelle claire ;
+- adaptation de la présentation au destinataire.
 
 ---
 
-### 👥 Conduite du changement & accompagnement
+### 📈 Construire des tableaux de bord pour piloter l’activité
 
-**[P5 — Optimiser la gestion des stocks d'une boutique](./projet-5-python-gestion-stocks/)**
-`Python`\
-Analyse des ventes et stocks, automatisation des alertes — livrable conçu pour être pris en main par un non-technicien
+**[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
+`Power BI · KPI · Pilotage projet · Reporting`\
+Création d’un tableau de bord de suivi projet : avancement, budget, livrables, indicateurs techniques et alertes de pilotage.
+
+**Compétences démontrées :**
+- définition de KPI de pilotage ;
+- structuration d’un reporting décisionnel ;
+- visualisation des écarts ;
+- aide au pilotage d’un projet complexe.
+
+**[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
+`Power BI · Transport · Reporting opérationnel · Pilotage d’activité`\
+Création d’un tableau de bord pour piloter l’activité d’une cellule transports : suivi opérationnel, indicateurs de performance, alertes et restitution managériale.
+
+**Compétences démontrées :**
+- analyse d’un besoin terrain ;
+- construction d’indicateurs opérationnels ;
+- restitution synthétique pour le management ;
+- transformation d’une activité métier en pilotage par la donnée.
+
+---
+
+### 👥 Accompagner les utilisateurs et faciliter l’adoption
+
+**[P5 — Optimiser la gestion des stocks d’une boutique](./projet-5-python-gestion-stocks/)**
+`Python · Automatisation · Gestion des stocks · Support utilisateur`\
+Analyse des ventes et des stocks, automatisation d’alertes et production d’un livrable exploitable par un utilisateur non technique.
+
+**Compétences démontrées :**
+- automatisation d’un traitement métier ;
+- simplification d’un processus opérationnel ;
+- conception d’un livrable compréhensible par un utilisateur final ;
+- accompagnement à la prise en main d’un outil data.
 
 ---
 
