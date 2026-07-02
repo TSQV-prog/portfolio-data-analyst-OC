@@ -12,4 +12,5 @@ rédigés pour accompagner les équipes sur les outils déployés.
 ## Compétences associées
 
 **C5 — Accompagner les équipes sur la prise en main des outils**/
+
 **C6 — Formaliser les procédures de documentation**
