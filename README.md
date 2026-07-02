@@ -16,7 +16,7 @@ Conduire des ateliers de recueil, interviewer les parties prenantes et formalise
 
 ### 📋 Rédaction des spécifications fonctionnelles
 Traduire les besoins métier en spécifications fonctionnelles détaillées : cas d'usage, règles de gestion, critères d'acceptation. Livrable clé du Business Analyst entre le métier et la MOE.
-→ [Voir le CDC](./cahier-des-charges/)
+→ [exemple de CDC](./cahier-des-charges/)
 
 ### 🗓️ Pilotage de projet & gouvernance
 Planifier, suivre les coûts, produire WBS, rétroplanning et PMR. Animer les revues de jalons avec le client et coordonner les experts (Data Engineer, ML Engineer, PMO).
