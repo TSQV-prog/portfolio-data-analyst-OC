@@ -82,7 +82,7 @@ Exploitation des retours clients pour identifier les axes d'amélioration du ré
 `Python`\
 Régression linéaire, corrélations et prédiction de valorisation d'actifs — aide à la décision
 
-**[P1 — Maîtriser Excel pour visualiser des données](./projet-1-excel-sport/)**
+**[P1 — Analyser la performance d'équipes sportives et professionnelles](./projet-1-excel-sport/)**
 `Excel`\
 Analyse de données sportives et création de visuels adaptés au public cible
 
