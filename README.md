@@ -69,7 +69,7 @@ Audit de conformité, rapport et recommandations — rôle de consultant
 
 ---
 
-### 🚀 Pilotage & tableaux de bord — Marine nationale
+### 🚀 Pilotage & tableaux de bord
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
 `Power BI`.\
