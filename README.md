@@ -10,27 +10,27 @@ Responsable logistique pendant plus de 10 ans dans la maintenance navale (Marine
 
 ## 🎯 Ce que je sais faire
 
-### C1 · Veille métier & technologique
+### Veille métier & technologique
 Identifier les outils, méthodes et évolutions utiles à mon secteur — et les tester concrètement.
 → [Voir la veille](./veille/)
 
-### C2 · Identifier les besoins métier
+### Identifier les besoins métier
 Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin
 
-### C3 · Rédiger un cahier des charges fonctionnel
+### Rédiger un cahier des charges fonctionnel
 Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de recette.
 → [Voir le CDC](./cahier-des-charges/)
 
-### C4 · Organiser un projet data
+### Organiser un projet data
 Planifier, suivre les coûts et l'avancement avec les bons outils (MS Project, Projektor, tableaux de bord).
 
-### C5 · Accompagner les équipes
+### Accompagner les équipes
 Former, rédiger des tutoriels clairs, faire monter en compétences les utilisateurs sur de nouveaux outils.
 
-### C6 · Formaliser les procédures
+### Formaliser les procédures
 Produire une documentation fiable, maintenable et compréhensible par tous.
 
-### C7 · Posture consultant
+### Posture consultant
 Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair plutôt que simple prestataire.
 
 
