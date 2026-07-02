@@ -16,7 +16,7 @@ Identifier les outils, méthodes et évolutions utiles à mon secteur — et les
 
 ### C2 · Identifier les besoins métier
 Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin
-→ Projets [P6](./projet-6-powerbi-suivi-projets/) · [P8](./projet-8-powerbi-performance-transports/) · [P9](./projet-9-excel-ppt-segmentation-marche/)
+→ Projets [P6](./projet-6-powerbi-suivi-projets/Tableau-de-bord_P6.pdf) · [P8](./projet-8-powerbi-performance-transports/) · [P9](./projet-9-excel-ppt-segmentation-marche/)
 
 ### C3 · Rédiger un cahier des charges fonctionnel
 Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de recette.
@@ -24,7 +24,7 @@ Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de 
 
 ### C4 · Organiser un projet data
 Planifier, suivre les coûts et l'avancement avec les bons outils (MS Project, Projektor, tableaux de bord).
-→ Projets [P6](./projet-6-powerbi-suivi-projets/) · [P8](./projet-8-powerbi-performance-transports/)
+→ Projets [P6](./projet-6-powerbi-suivi-projets/Tableau-de-bord_P6.pdf) · [P8](./projet-8-powerbi-performance-transports/)
 
 ### C5 · Accompagner les équipes
 Former, rédiger des tutoriels clairs, faire monter en compétences les utilisateurs sur de nouveaux outils.
