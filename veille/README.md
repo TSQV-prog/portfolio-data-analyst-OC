@@ -36,6 +36,4 @@ les pratiques métier et les évolutions réglementaires.
 - [ANSSI](https://www.ssi.gouv.fr) — cybersécurité et protection des SI — pertinent en contexte défense
 - [AI Act Européen](https://artificialintelligenceact.eu) — règlement européen sur l'IA
 
-## Compétence associée
 
-**C1 — Effectuer une veille métier et technologique**
