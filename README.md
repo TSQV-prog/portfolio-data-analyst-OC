@@ -43,120 +43,61 @@ Challenger les besoins exprimés, proposer des alternatives réalistes et se pos
 
 ## 📁 Projets — Preuves de compétences
 
-### 🔍 Comprendre le besoin métier & cadrer la demande
+Ces projets illustrent ma capacité à intervenir sur la chaîne de valeur data : comprendre un besoin métier, structurer les données, les analyser et produire des supports d’aide à la décision.
+
+### 🔍 Cadrage métier & analyse du besoin
 
 **[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
-`Excel · PowerPoint · Analyse stratégique · Besoin métier`\
-Analyse d’un besoin business, étude de marché, SWOT, PESTEL, segmentation et formulation de préconisations stratégiques.  
-Projet réalisé dans un contexte proche de mon environnement professionnel : maintenance navale, MCO et relation client.
-
-**Compétences démontrées :**
-- analyse d’un contexte métier ;
-- identification des enjeux business ;
-- structuration d’un raisonnement stratégique ;
-- formulation de recommandations compréhensibles par un décideur.
+`Excel · PowerPoint · Analyse stratégique`\
+Analyse d’un besoin business, étude de marché, SWOT, PESTEL, segmentation et recommandations stratégiques dans un contexte MCO naval.
 
 ---
 
-### 📋 Formaliser les règles métier, les contraintes et les spécifications
+### 📋 Spécifications fonctionnelles & conformité
 
 **[P3 — Collecter des données en respectant le RGPD](./projet-3-rgpd-courtier-assurance/)**
-`SQL · RGPD · Spécifications fonctionnelles · Règles de gestion`\
-Analyse d’un besoin de collecte de données dans un contexte réglementé. Formalisation des règles de gestion, identification des contraintes RGPD et rédaction de recommandations fonctionnelles.
-
-**Compétences démontrées :**
-- analyse des contraintes réglementaires ;
-- formalisation de règles de gestion ;
-- traduction d’un besoin métier en exigences fonctionnelles ;
-- prise en compte de la conformité dès la conception.
+`SQL · RGPD · Règles de gestion`\
+Analyse d’un besoin de collecte de données, formalisation des règles métier et prise en compte des contraintes RGPD.
 
 ---
 
-### 🗄️ Modéliser et structurer les données
+### 🗄️ Modélisation de données & bases relationnelles
 
 **[P2 — Créer et gérer une base de données](./projet-2-sql-base-de-donnees/)**
-`SQL · DBeaver · Modélisation relationnelle · Base de données`\
-Conception d’une base de données relationnelle à partir d’un besoin métier : identification des entités, création des tables, définition des clés primaires et étrangères, relations entre tables, dictionnaire de données et scripts SQL.
-
-**Compétences démontrées :**
-- compréhension d’un schéma relationnel ;
-- identification des entités métier et des attributs ;
-- définition des tables, clés primaires et clés étrangères ;
-- traduction de règles métier en modèle de données ;
-- documentation de la structure de données via un dictionnaire.
+`SQL · DBeaver · Modélisation relationnelle`\
+Conception d’une base relationnelle : entités métier, tables, clés primaires, clés étrangères, relations, dictionnaire de données et scripts SQL.
 
 ---
 
-### 📊 Exploiter les données et produire des analyses
+### 📊 Analyse de données & recommandations
 
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
 `SQL · Analyse métier · Requêtes relationnelles`\
-Exploitation de données issues d’un réseau de magasins afin d’identifier des axes d’amélioration. Utilisation de requêtes SQL pour interroger, croiser et analyser les données.
+Exploitation de données magasins et clients pour identifier des axes d’amélioration à partir de requêtes SQL.
 
-**Compétences démontrées :**
-- interrogation de bases relationnelles ;
-- jointures et croisements de données ;
-- analyse orientée métier ;
-- identification d’axes d’amélioration à partir des données.
+**[P5 — Optimiser la gestion des stocks d’une boutique](./projet-5-python-gestion-stocks/)**
+`Python · Analyse de données · Gestion des stocks`\
+Analyse des ventes et des stocks pour identifier les ruptures, surstocks et besoins de réapprovisionnement.
 
 **[P7 — Analyser l’évolution des prix de l’immobilier](./projet-7-python-immobilier/)**
-`Python · Statistiques · Régression linéaire · Analyse prédictive`\
-Analyse de données immobilières, étude des corrélations, modélisation simple et estimation de la valeur d’un actif à partir de variables explicatives.
-
-**Compétences démontrées :**
-- nettoyage et préparation de données ;
-- analyse statistique ;
-- identification de corrélations ;
-- utilisation d’un modèle prédictif simple pour l’aide à la décision.
+`Python · Statistiques · Régression linéaire`\
+Analyse de données immobilières, étude des corrélations et estimation de la valeur d’un actif.
 
 **[P1 — Analyser la performance d’équipes sportives et professionnelles](./projet-1-excel-sport/)**
 `Excel · Analyse comparative · Data visualisation`\
 Analyse de données de performance et création de visuels adaptés au public cible.
 
-**Compétences démontrées :**
-- analyse exploratoire simple ;
-- comparaison d’indicateurs ;
-- restitution visuelle claire ;
-- adaptation de la présentation au destinataire.
-
 ---
 
-### 📈 Construire des tableaux de bord pour piloter l’activité
+### 📈 Tableaux de bord & pilotage d’activité
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
-`Power BI · KPI · Pilotage projet · Reporting`\
-Création d’un tableau de bord de suivi projet : avancement, budget, livrables, indicateurs techniques et alertes de pilotage.
-
-**Compétences démontrées :**
-- définition de KPI de pilotage ;
-- structuration d’un reporting décisionnel ;
-- visualisation des écarts ;
-- aide au pilotage d’un projet complexe.
+`Power BI · KPI · Pilotage projet`\
+Création d’un tableau de bord de suivi projet : avancement, budget, livrables et alertes de pilotage.
 
 **[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
-`Power BI · Transport · Reporting opérationnel · Pilotage d’activité`\
-Création d’un tableau de bord pour piloter l’activité d’une cellule transports : suivi opérationnel, indicateurs de performance, alertes et restitution managériale.
-
-**Compétences démontrées :**
-- analyse d’un besoin terrain ;
-- construction d’indicateurs opérationnels ;
-- restitution synthétique pour le management ;
-- transformation d’une activité métier en pilotage par la donnée.
-
----
-
-### 👥 Accompagner les utilisateurs et faciliter l’adoption
-
-**[P5 — Optimiser la gestion des stocks d’une boutique](./projet-5-python-gestion-stocks/)**
-`Python · Automatisation · Gestion des stocks · Support utilisateur`\
-Analyse des ventes et des stocks, automatisation d’alertes et production d’un livrable exploitable par un utilisateur non technique.
-
-**Compétences démontrées :**
-- automatisation d’un traitement métier ;
-- simplification d’un processus opérationnel ;
-- conception d’un livrable compréhensible par un utilisateur final ;
-- accompagnement à la prise en main d’un outil data.
-
+`Power BI · Reporting opérationnel · Transport`\
+Création d’un tableau de bord pour piloter l’activité transport : indicateurs, alertes et restitution managériale.
 ---
 
 ## 👤 Profil en bref
