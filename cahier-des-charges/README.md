@@ -10,4 +10,4 @@ réalisé dans le cadre de la mission pour Aéroworld / Data ESN.
 
 ## Compétence associée
 
-**C3 — Rédiger un cahier des charges fonctionnel**
+Rédiger un cahier des charges fonctionnel**
