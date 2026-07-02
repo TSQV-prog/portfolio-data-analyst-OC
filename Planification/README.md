@@ -9,8 +9,8 @@ du portfolio, réalisé dans le cadre de la mission pour **Aéroworld / Data ESN
 
 | Fichier | Description |
 |---|---|
-| `Gantt_Portfolio.pdf` | Diagramme de Gantt — création du portfolio (4 phases) |
-| `Gantt_projet_global.pdf` | Diagramme de Gantt global — du mail de Suzanne à la livraison finale (7 phases) |
+| `Gantt_Portfolio.pdf` | Diagramme de Gantt — création d'un portfolio (4 phases) |
+| `Gantt_projet_global.pdf` | Diagramme de Gantt global — Projet Aéroworld |
 
 👉 [Gantt Portfolio](./Gantt_Portfolio.pdf)
 👉 [Gantt Projet Global](./Gantt_projet_global.pdf)
