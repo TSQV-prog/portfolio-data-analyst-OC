@@ -106,7 +106,7 @@ Analyse des ventes et stocks, automatisation des alertes — livrable conçu pou
 2012–2017   Logisticien — CNN MCO / Naval Group (DCNS)
 ```
 
-**Outils :** Power BI · Excel · Python · SQL · SAP Business One · MS Project · Projektor
+**Outils :** Power BI · Excel · Python · SQL · SAP Business One · MS Project · Projeqtor
 
 **Secteurs :** Défense · Maintenance navale · Logistique · Supply chain · Projets SI
 
