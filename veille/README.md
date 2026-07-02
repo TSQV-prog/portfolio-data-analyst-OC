@@ -1,7 +1,9 @@
 # Veille métier & technologique
 
 Ma veille couvre 6 domaines pour rester à jour sur les outils,
-les pratiques métier et les évolutions réglementaires.
+les pratiques métier et les évolutions réglementaires. ./
+- [Mon tableau de bord lié à la veille](veille/Mon_tableau_de_bord - Veille.pdf)
+
 
 ## 📊 Business Intelligence & Power BI
 
