@@ -10,28 +10,30 @@ Responsable logistique pendant plus de 10 ans dans la maintenance navale (Marine
 
 ## 🎯 Ce que je sais faire
 
-### Veille métier & technologique
-Identifier les outils, méthodes et évolutions utiles à mon secteur — et les tester concrètement.
-→ [Voir la veille](./veille/)
 
-### Identifier les besoins métier
-Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin
+### 🔍 Analyse & recueil des besoins métier
+Conduire des ateliers de recueil, interviewer les parties prenantes et formaliser les besoins réels — pas ceux exprimés. Expérimenté sur des projets SI (SAP, GMAO) et en environnement défense.
 
-### Rédiger un cahier des charges fonctionnel
-Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de recette.
+### 📋 Rédaction des spécifications fonctionnelles
+Traduire les besoins métier en spécifications fonctionnelles détaillées : cas d'usage, règles de gestion, critères d'acceptation. Livrable clé du Business Analyst entre le métier et la MOE.
 → [Voir le CDC](./cahier-des-charges/)
 
-### Organiser un projet data
-Planifier, suivre les coûts et l'avancement avec les bons outils (MS Project, Projektor, tableaux de bord).
+### 🗓️ Pilotage de projet & gouvernance
+Planifier, suivre les coûts, produire WBS, rétroplanning et PMR. Animer les revues de jalons avec le client et coordonner les experts (Data Engineer, ML Engineer, PMO).
 
-### Accompagner les équipes
-Former, rédiger des tutoriels clairs, faire monter en compétences les utilisateurs sur de nouveaux outils.
+### 📊 Analyse de données & aide à la décision
+Exploiter les données pour produire des tableaux de bord, KPI et reportings actionnables (Power BI, Python, SQL, Excel). Transformer la donnée brute en information stratégique.
 
-### Formaliser les procédures
-Produire une documentation fiable, maintenable et compréhensible par tous.
+### 👥 Conduite du changement & accompagnement
+Former les équipes, rédiger les supports utilisateurs et procédures. Assurer l'adoption des outils déployés — de l'opérateur terrain à la direction.
+→ [Voir la documentation](./documentation/)
 
-### Posture consultant
-Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair plutôt que simple prestataire.
+### 🔒 Conformité & documentation
+Garantir la traçabilité des décisions, la conformité RGPD et la qualité de la documentation tout au long du projet. Expérimenté sur des données sensibles (défense, maintenance navale).
+
+### 💡 Posture conseil & veille
+Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair. Assurer une veille active sur les outils, méthodes et évolutions réglementaires du secteur data.
+→ [Voir la veille](./veille/)
 
 
 ---
