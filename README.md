@@ -44,7 +44,7 @@ Challenger les besoins exprimés, proposer des alternatives, se positionner comm
 ### 🔍 Analyse & recueil des besoins métier
 
 **[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
-`Excel · PowerPoint`
+`Excel · PowerPoint`\
 SWOT, PESTEL, segmentation de marché, identification des besoins et préconisations stratégiques — contexte réel MCO navires Marine nationale
 
 ---
@@ -52,11 +52,11 @@ SWOT, PESTEL, segmentation de marché, identification des besoins et préconisat
 ### 📋 Rédaction des spécifications fonctionnelles
 
 **[P3 — Collecter des données en respectant le RGPD](./projet-3-rgpd-courtier-assurance/)**
-`SQL · RGPD`
+`SQL · RGPD`\
 Audit de conformité, rapport de recommandations et spécifications des règles de gestion — rôle de consultant
 
 **[P2 — Créer et gérer une base de données](./projet-2-sql-base-de-donnees/)**
-`SQL · DBeaver`
+`SQL · DBeaver`\
 Modélisation relationnelle, dictionnaire de données, scripts SQL — formalisation des règles métier en spécifications techniques
 
 ---
@@ -64,11 +64,11 @@ Modélisation relationnelle, dictionnaire de données, scripts SQL — formalisa
 ### 🗓️ Pilotage de projet & gouvernance
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
-`Power BI`
+`Power BI`\
 KPI technique, budgétaire et avancement livrables — pilotage MCO navires Marine nationale
 
 **[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
-`Power BI`
+`Power BI`\
 Pilotage d'activité, alertes et reporting — cellule transports créée et dirigée en conditions réelles
 
 ---
@@ -76,15 +76,15 @@ Pilotage d'activité, alertes et reporting — cellule transports créée et dir
 ### 📊 Analyse de données & aide à la décision
 
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
-`SQL`
+`SQL`\
 Exploitation des retours clients pour identifier les axes d'amélioration du réseau — posture conseil
 
 **[P7 — Analyser l'évolution des prix de l'immobilier](./projet-7-python-immobilier/)**
-`Python`
+`Python`\
 Régression linéaire, corrélations et prédiction de valorisation d'actifs — aide à la décision
 
 **[P1 — Maîtriser Excel pour visualiser des données](./projet-1-excel-sport/)**
-`Excel`
+`Excel`\
 Analyse de données sportives et création de visuels adaptés au public cible
 
 ---
@@ -92,9 +92,8 @@ Analyse de données sportives et création de visuels adaptés au public cible
 ### 👥 Conduite du changement & accompagnement
 
 **[P5 — Optimiser la gestion des stocks d'une boutique](./projet-5-python-gestion-stocks/)**
-`Python`
+`Python`\
 Analyse des ventes et stocks, automatisation des alertes — livrable conçu pour être pris en main par un non-technicien
-
 ---
 
 ## 👤 Profil en bref
