@@ -70,7 +70,7 @@ Challenger les besoins exprimés, proposer des alternatives, se positionner comm
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
 `Power BI` · KPI technique, budgétaire, avancement livrables — MCO navires
 
-**[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/Tableau de bord/)**
+**[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/Tableau de bord/).**
 `Power BI` · Pilotage d'activité, alertes, reporting — cellule créée et dirigée par moi
 
 **[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
