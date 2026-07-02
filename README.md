@@ -45,13 +45,16 @@ Challenger les besoins exprimés, proposer des alternatives, se positionner comm
 ### 📊 Analyse de données
 
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
-`SQL` · Exploitation des retours clients pour améliorer la qualité réseau — posture conseil
+`SQL`
+Exploitation des retours clients pour améliorer la qualité réseau — posture conseil
 
 **[P7 — Analyser l'évolution des prix de l'immobilier](./projet-7-python-immobilier/)**
-`Python` · Régression linéaire, corrélations, prédiction de valorisation d'actifs
+`Python`
+Régression linéaire, corrélations, prédiction de valorisation d'actifs
 
 **[P1 — Maîtriser Excel pour visualiser des données](./projet-1-excel-sport/)**
-`Excel` · Analyse de données sportives, visuels adaptés au public cible
+`Excel`
+Analyse de données sportives, visuels adaptés au public cible
 
 ---
 
