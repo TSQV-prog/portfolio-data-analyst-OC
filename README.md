@@ -16,7 +16,6 @@ Identifier les outils, méthodes et évolutions utiles à mon secteur — et les
 
 ### C2 · Identifier les besoins métier
 Recueillir, challenger et formaliser ce que les équipes terrain ont réellement besoin
-→ Projets [P6](./projet-6-powerbi-suivi-projets/Tableau-de-bord_P6.pdf) · [P8](./projet-8-powerbi-performance-transports/) · [P9](./projet-9-excel-ppt-segmentation-marche/)
 
 ### C3 · Rédiger un cahier des charges fonctionnel
 Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de recette.
@@ -24,19 +23,16 @@ Cadrer un projet data de A à Z : besoins, contraintes, solutions, critères de 
 
 ### C4 · Organiser un projet data
 Planifier, suivre les coûts et l'avancement avec les bons outils (MS Project, Projektor, tableaux de bord).
-→ Projets [P6](./projet-6-powerbi-suivi-projets/Tableau-de-bord_P6.pdf) · [P8](./projet-8-powerbi-performance-transports/)
 
 ### C5 · Accompagner les équipes
 Former, rédiger des tutoriels clairs, faire monter en compétences les utilisateurs sur de nouveaux outils.
-→ [Voir la documentation](./documentation/)
 
 ### C6 · Formaliser les procédures
 Produire une documentation fiable, maintenable et compréhensible par tous.
-→ [Documentation](./documentation/) · [P2](./projet-2-sql-base-de-donnees/) · [P3](./projet-3-rgpd-courtier-assurance/)
 
 ### C7 · Posture consultant
 Challenger les besoins exprimés, proposer des alternatives, se positionner comme pair plutôt que simple prestataire.
-→ Projets [P3](./projet-3-rgpd-courtier-assurance/) · [P9](./projet-9-excel-ppt-segmentation-marche/)
+
 
 ---
 
