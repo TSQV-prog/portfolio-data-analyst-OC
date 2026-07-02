@@ -45,36 +45,44 @@ Challenger les besoins exprimés, proposer des alternatives, se positionner comm
 ### 📊 Analyse de données
 
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
-`SQL`.\Exploitation des retours clients pour améliorer la qualité réseau — posture conseil
+`SQL`.\
+Exploitation des retours clients pour améliorer la qualité réseau — posture conseil
 
 **[P7 — Analyser l'évolution des prix de l'immobilier](./projet-7-python-immobilier/)**
-`Python`.\Régression linéaire, corrélations, prédiction de valorisation d'actifs
+`Python`.\
+Régression linéaire, corrélations, prédiction de valorisation d'actifs
 
 **[P1 — Maîtriser Excel pour visualiser des données](./projet-1-excel-sport/)**
-`Excel`.\Analyse de données sportives, visuels adaptés au public cible
+`Excel`.\
+Analyse de données sportives, visuels adaptés au public cible
 
 ---
 
 ### 🗂️ Gestion de données & conformité
 
 **[P2 — Créer et gérer une base de données](./projet-2-sql-base-de-donnees/)**
-`SQL · DBeaver`.\ Modélisation relationnelle, dictionnaire de données, scripts SQL
+`SQL · DBeaver`.\
+Modélisation relationnelle, dictionnaire de données, scripts SQL
 
 **[P3 — Collecter des données en respectant le RGPD](./projet-3-rgpd-courtier-assurance/)**
-`SQL · RGPD`.\Audit de conformité, rapport et recommandations — rôle de consultant
+`SQL · RGPD`.\
+Audit de conformité, rapport et recommandations — rôle de consultant
 
 ---
 
 ### 🚀 Pilotage & tableaux de bord — Marine nationale
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
-`Power BI`.\KPI technique, budgétaire, avancement livrables — MCO navires
+`Power BI`.\
+KPI technique, budgétaire, avancement livrables — MCO navires
 
 **[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
-`Power BI`.\Pilotage d'activité, alertes, reporting — cellule créée et dirigée par moi
+`Power BI`.\
+Pilotage d'activité, alertes, reporting — cellule créée et dirigée par moi
 
 **[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
-`Excel · PowerPoint`.\SWOT, PESTEL, segmentation, préconisations stratégiques
+`Excel · PowerPoint`.\
+SWOT, PESTEL, segmentation, préconisations stratégiques
 
 ---
 
