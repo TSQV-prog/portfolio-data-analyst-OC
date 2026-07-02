@@ -7,9 +7,7 @@ réalisé dans le cadre de la mission pour **Aéroworld / Data ESN**.
 
 ## 📄 Document
 
-| Fichier | Description |
-|---|---|
-| `00_Cahier_des_charges.pdf` | Cahier des charges fonctionnel complet |
+👉 [Consulter le cahier des charges (PDF)](./00_Cahier_des_charges.pdf)
 
 ---
 
