@@ -61,7 +61,7 @@ Modélisation relationnelle, dictionnaire de données, scripts SQL — formalisa
 
 ---
 
-### 🗓️ Création de tableau de bord pour pilotage des activités
+### 🗓️ Création de tableaux de bord pour pilotage des activités
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
 `Power BI`\
