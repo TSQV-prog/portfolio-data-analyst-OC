@@ -94,6 +94,7 @@ Analyse de données sportives et création de visuels adaptés au public cible
 **[P5 — Optimiser la gestion des stocks d'une boutique](./projet-5-python-gestion-stocks/)**
 `Python`\
 Analyse des ventes et stocks, automatisation des alertes — livrable conçu pour être pris en main par un non-technicien
+
 ---
 
 ## 👤 Profil en bref
