@@ -131,12 +131,12 @@ Ma veille couvre 6 domaines : Business Intelligence, Data & Analyse, Méthodes B
 ```
 portfolio-data-analyst-OC/
 │
-├── README.md                          ← Vous êtes ici
-├── index.html                         ← Page d'accueil visuelle
+├── README.md                         
+├── index.html                         
 │
-├── cahier-des-charges/                ← C3 : CDC fonctionnel du portfolio
-├── documentation/                     ← C5 & C6 : procédures, tutoriels
-├── veille/                            ← C1 : veille métier & technologique
+├── cahier-des-charges/               
+├── documentation/                     
+├── veille/                            
 │
 ├── projet-1-excel-sport/
 ├── projet-2-sql-base-de-donnees/
