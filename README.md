@@ -98,6 +98,7 @@ Création d’un tableau de bord de suivi projet : avancement, budget, livrables
 **[P8 — Tableau de bord cellule transports](./projet-8-powerbi-performance-transports/)**
 `Power BI · Reporting opérationnel · Transport`\
 Création d’un tableau de bord pour piloter l’activité transport : indicateurs, alertes et restitution managériale.
+
 ---
 
 ## 👤 Profil en bref
