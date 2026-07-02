@@ -27,7 +27,6 @@ Exploiter les données pour produire des tableaux de bord, KPI et reportings act
 
 ### 👥 Conduite du changement & accompagnement
 Former les équipes, rédiger les supports utilisateurs et procédures. Assurer l'adoption des outils déployés — de l'opérateur terrain à la direction.
-→ [Voir la documentation](./documentation/)
 
 ### 🔒 Conformité & documentation
 Garantir la traçabilité des décisions, la conformité RGPD et la qualité de la documentation tout au long du projet. Expérimenté sur des données sensibles (défense, maintenance navale).
