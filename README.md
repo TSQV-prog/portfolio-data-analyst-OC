@@ -14,7 +14,7 @@ Responsable logistique pendant plus de 10 ans dans la maintenance navale (Marine
 Conduire des ateliers de recueil, interviewer les parties prenantes et formaliser les besoins réels — pas seulement ceux exprimés. Expérimenté sur des projets SI (SAP, GMAO, GED) et en environnement défense / maintenance navale.
 
 ### 📋 Rédaction des spécifications fonctionnelles
-Traduire les besoins métier en spécifications fonctionnelles détaillées : cas d’usage, règles de gestion, critères d’acceptation, processus cible et contraintes fonctionnelles. Livrable clé du Business Analyst entre les métiers, la MOA et la MOE.
+Traduire les besoins métier en spécifications fonctionnelles détaillées. 
 → [exemple de CDC](./cahier-des-charges/)
 
 ### 🗄️ Modélisation de données & SQL relationnel
