@@ -120,7 +120,7 @@ Création d’un tableau de bord pour piloter l’activité transport : indicate
 
 ## 📡 Veille
 
-Ma veille couvre 6 domaines : Business Intelligence, Data & Analyse, Méthodes BA & Agilité, Logistique & Transport, Réglementation (RGPD, AI Act), Métier BA/AMOA.
+Ma veille couvre 6 domaines : la Business Intelligence, la Data, les méthodes agiles, Logistique & Transport, Réglementation (RGPD, AI Act), le Métier de Bunisess Analyst/AMOA.
 
 → [Accéder à la veille complète](./veille/)
 
