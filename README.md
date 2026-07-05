@@ -1,4 +1,4 @@
-  # Thomas S — Data Business Analyst · AMOA
+  # Thomas Secqueville — Data Business Analyst · AMOA
 
 > *Je comprends les données **parce que** je comprends les opérations.*
 
