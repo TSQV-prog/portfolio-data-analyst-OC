@@ -29,7 +29,7 @@ Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de g
 → [exemple d'une planification](./Planification/)
 
 ### 👥 Conduite du changement & accompagnement
-Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires./ 
+Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires.\
 Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.
 
 ### 🔒 Conformité, RGPD & documentation
