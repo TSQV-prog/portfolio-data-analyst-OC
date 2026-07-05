@@ -32,7 +32,7 @@ Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de g
 Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires. Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.
 
 ### 🔒 Conformité, RGPD & documentation
-Garantir la traçabilité des décisions, la conformité RGPD et la qualité de la documentation tout au long du projet. Expérimenté sur des environnements sensibles : défense, maintenance navale, données opérationnelles et données métier.
+Garantir la conformité RGPD et la qualité de la documentation tout au long du projet.
 
 ### 💡 Posture conseil & veille
 Challenger les besoins exprimés, proposer des alternatives réalistes et se positionner comme interlocuteur entre métier, data et système d’information. Assurer une veille active sur les outils, méthodes et évolutions réglementaires du secteur data.
