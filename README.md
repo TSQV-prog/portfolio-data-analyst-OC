@@ -21,19 +21,19 @@ Traduire les besoins métier en spécifications fonctionnelles détaillées.
 Comprendre la structure d’une base de données relationnelle : tables, clés primaires, clés étrangères, relations entre entités, dictionnaire de données et règles métier associées. Être capable d’interroger, contrôler et exploiter les données avec SQL pour produire des analyses fiables.
 → [exemple de modélisation SQL](./projet-2-sql-base-de-donnees/)
 
-### 📊 Analyser de données & aide à la décision
+### 📊 Analyser des données & aide à la décision
 Exploiter les données pour produire des tableaux de bord, KPI et reportings avec Power BI, Python, SQL et Excel. Transformer la donnée brute en information lisible, exploitable et orientée décision.
 
-### 🗓️ Pilotage de projet & gouvernance
+### 🗓️ Piloter un projet
 Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de gouvernance. Animer les revues de jalons avec le client et coordonner les contributeurs projet : métier, MOE, Data Engineer, ML Engineer, PMO.
 → [exemple d'une planification](./Planification/)
 
-### 👥 Conduite du changement & accompagnement
+### 👥 Accompagner la conduite du changement 
 Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires.\
 Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.
 
-### 🔒 Conformité, RGPD & documentation
-Garantir la conformité RGPD et la qualité de la documentation tout au long du projet.
+### 🔒 RGPD
+Garantir la conformité RGPD.
 
 ### 💡 Posture conseil & veille
 Challenger les besoins exprimés, proposer des alternatives réalistes et se positionner comme interlocuteur entre métier, data et système d’information. Assurer une veille active sur les outils, méthodes et évolutions réglementaires du secteur data.
