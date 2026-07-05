@@ -2,7 +2,7 @@
 
 > *Je comprends les données **parce que** je comprends les opérations.*
 
-Après plus de 10 ans en tant que responsable logistique dans la maintenance navale, où j'ai piloté des projets SI (SAP Business One, GMAO, GED), j'ai fait évoluer mon expertise vers la Data. Aujourd'hui certifié Business Intelligence Analyst (OpenClassrooms, 2025), j'allie vision terrain et compétences analytiques.
+Après plus de 10 ans en tant que responsable logistique dans la maintenance navale, où j'ai piloté des projets SI (SAP Business One, GMAO, GED), j'ai fait évoluer mon expertise vers la Data. Aujourd'hui certifié Business Intelligence Analyst (OpenClassrooms, 2026), j'allie vision terrain et compétences analytiques.
 
 📧 secqueville.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-secqueville-21362222a/)
 
