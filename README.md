@@ -2,7 +2,7 @@
 
 > *Je comprends les données **parce que** je comprends les opérations.*
 
-Responsable logistique pendant plus de 10 ans dans la maintenance navale, pilote de projets SI (SAP Business One, GMAO, GED), maintenant certifié **Data Business Analyst** (OpenClassrooms, 2025).
+Responsable logistique pendant plus de 10 ans dans la maintenance navale, pilote de projets SI (SAP Business One, GMAO, GED), maintenant certifié **Business Intelligence Analyst** (OpenClassrooms, 2025).
 
 📧 secqueville.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-secqueville-21362222a/)
 
