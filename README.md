@@ -10,19 +10,19 @@ Après plus de 10 ans en tant que responsable logistique dans la maintenance nav
 
 ## 🎯 Ce que je sais faire
 
-### 🔍 Analyse & recueil des besoins métier
+### 🔍 Analyser & recueillir des besoins métier
 Conduire des ateliers de recueil, interviewer les parties prenantes et formaliser les besoins réels — pas seulement ceux exprimés. Expérimenté sur des projets SI (SAP, GMAO, GED) et en environnement défense / maintenance navale.
 
-### 📋 Rédaction des spécifications fonctionnelles
+### 📋 Rédiger des spécifications fonctionnelles
 Traduire les besoins métier en spécifications fonctionnelles détaillées. 
 → [exemple de CDC](./cahier-des-charges/)
 
-### 🗄️ Modélisation de données & SQL relationnel
+### 🗄️ Comprendre la modélisation de données et requêter une base de données.
 Comprendre la structure d’une base de données relationnelle : tables, clés primaires, clés étrangères, relations entre entités, dictionnaire de données et règles métier associées. Être capable d’interroger, contrôler et exploiter les données avec SQL pour produire des analyses fiables.
 → [exemple de modélisation SQL](./projet-2-sql-base-de-donnees/)
 
-### 📊 Analyse de données & aide à la décision
-Exploiter les données pour produire des tableaux de bord, KPI et reportings actionnables avec Power BI, Python, SQL et Excel. Transformer la donnée brute en information lisible, exploitable et orientée décision.
+### 📊 Analyser de données & aide à la décision
+Exploiter les données pour produire des tableaux de bord, KPI et reportings avec Power BI, Python, SQL et Excel. Transformer la donnée brute en information lisible, exploitable et orientée décision.
 
 ### 🗓️ Pilotage de projet & gouvernance
 Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de gouvernance. Animer les revues de jalons avec le client et coordonner les contributeurs projet : métier, MOE, Data Engineer, ML Engineer, PMO.
