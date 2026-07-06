@@ -19,7 +19,7 @@ Traduire les besoins métier en spécifications fonctionnelles détaillées.\
 → [Rapport d’analyse spécification de besoin d'Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf)
 
 ### 🗄️ Comprendre la modélisation de données et requêter une base de données.
-Comprendre la structure d’une base de données relationnelle : tables, clés primaires, clés étrangères, relations entre entités, dictionnaire de données et règles métier associées. Être capable d’interroger, contrôler et exploiter les données avec SQL pour produire des analyses fiables.
+Comprendre la structure d’une base de données relationnelle : tables, clés primaires, clés étrangères, relations entre entités, dictionnaire de données et règles métier associées. Être capable d’interroger, contrôler et exploiter les données avec SQL pour produire des analyses fiables.\
 → [exemple de modélisation SQL](./projet-2-sql-base-de-donnees/)
 
 ### 📊 Analyser des données & aide à la décision
