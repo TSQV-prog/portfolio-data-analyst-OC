@@ -31,7 +31,8 @@ Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de g
 
 ### 👥 Accompagner la conduite du changement 
 Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires.\
-Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.
+Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.\
+→ [Exemple de procédure](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/documentation/07_Procedure_creation_visuel.pdf)\
 
 ### 🔒 RGPD
 Garantir la conformité RGPD.
