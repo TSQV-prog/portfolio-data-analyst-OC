@@ -15,7 +15,8 @@ Conduire des ateliers de recueil, interviewer les parties prenantes et formalise
 
 ### 📋 Rédiger des spécifications fonctionnelles
 Traduire les besoins métier en spécifications fonctionnelles détaillées. 
-→ [exemple de CDC](./cahier-des-charges/)
+→ [Cahier des charges Aéroworld]((https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf))
+→ [Rapport d’analyse spécification de besoin d'Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf)
 
 ### 🗄️ Comprendre la modélisation de données et requêter une base de données.
 Comprendre la structure d’une base de données relationnelle : tables, clés primaires, clés étrangères, relations entre entités, dictionnaire de données et règles métier associées. Être capable d’interroger, contrôler et exploiter les données avec SQL pour produire des analyses fiables.
