@@ -14,7 +14,7 @@ Après plus de 10 ans en tant que responsable logistique dans la maintenance nav
 Conduire des ateliers de recueil, interviewer les parties prenantes et formaliser les besoins réels — pas seulement ceux exprimés. Expérimenté sur des projets SI (SAP, GMAO, GED) et en environnement défense / maintenance navale.
 
 ### 📋 Rédiger des spécifications fonctionnelles
-Traduire les besoins métier en spécifications fonctionnelles détaillées. 
+Traduire les besoins métier en spécifications fonctionnelles détaillées.\
 → [Cahier des charges Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/00_Cahier_des_charges.pdf)\
 → [Rapport d’analyse spécification de besoin d'Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf)
 
