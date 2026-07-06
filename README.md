@@ -15,7 +15,7 @@ Conduire des ateliers de recueil, interviewer les parties prenantes et formalise
 
 ### 📋 Rédiger des spécifications fonctionnelles
 Traduire les besoins métier en spécifications fonctionnelles détaillées. 
-→ [Cahier des charges Aéroworld]((https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf))
+→ [Cahier des charges Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/00_Cahier_des_charges.pdf)\
 → [Rapport d’analyse spécification de besoin d'Aéroworld](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/cahier-des-charges/01_Rapport_d_analyse_A%C3%A9roworld.pdf)
 
 ### 🗄️ Comprendre la modélisation de données et requêter une base de données.
