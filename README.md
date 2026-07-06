@@ -106,7 +106,7 @@ Création d’un tableau de bord pour piloter l’activité transport : indicate
 ## 👤 Profil en bref
 
 ```
-2025 →      Certification Data Business Analyst (OpenClassrooms) et chef de projets Outils numériques (GED, PPM, CLM...)
+2025-2026   Certification Data Business Analyst (OpenClassrooms) et chef de projets Outils numériques (GED, PPM, CLM...)
 2024–2025   Chef de projet GMAO MisterMaint Fusion + interface SAGE
 2023–2024   Chef de projet SAP Business One — CNN MCO
 2017–2023   Responsable Logistique — CNN MCO (Marine nationale)
