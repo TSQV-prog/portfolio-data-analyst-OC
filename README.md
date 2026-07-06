@@ -33,6 +33,7 @@ Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de g
 Former les équipes, rédiger les supports utilisateurs, procédures et modes opératoires.\
 Assurer l’adoption des outils déployés — de l’opérateur terrain à la direction.\
 → [Exemple de procédure](https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/documentation/07_Procedure_creation_visuel.pdf)\
+→ [Exemple de logigramme] (https://github.com/TSQV-prog/portfolio-data-analyst-OC/blob/main/documentation/logigramme_visuel_powerbi.png)\
 
 ### 🔒 RGPD
 Garantir la conformité RGPD.
