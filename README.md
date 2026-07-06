@@ -45,15 +45,10 @@ Challenger les besoins exprimés, proposer des alternatives réalistes et se pos
 
 ---
 
+
 ## 📁 Projets — Preuves de compétences
 
 Ces projets illustrent ma capacité à intervenir sur la chaîne de valeur data : comprendre un besoin métier, structurer les données, les analyser et produire des supports d’aide à la décision.
-
-### 🔍 Cadrage métier & analyse du besoin
-
-**[P9 — Analyser une demande Business et segmenter le marché](./projet-9-excel-ppt-segmentation-marche/)**
-`Excel · PowerPoint · Analyse stratégique`\
-Analyse d’un besoin business, étude de marché, SWOT, PESTEL, segmentation et recommandations stratégiques dans un contexte MCO naval.
 
 ---
 
@@ -75,6 +70,10 @@ Conception d’une base relationnelle : entités métier, tables, clés primaire
 
 ### 📊 Analyse de données & recommandations
 
+**[P9 — Analyser des données sur les ventes et les segments de marché](./projet-9-excel-ppt-segmentation-marche/)**
+`Excel · PowerPoint · Analyse stratégique`\
+Analyse d’un besoin business, étude de marché, SWOT, PESTEL, segmentation et recommandations stratégiques dans un contexte MCO naval.
+
 **[P4 — Analyser les données de la grande distribution](./projet-4-sql-grande-distribution/)**
 `SQL · Analyse métier · Requêtes relationnelles`\
 Exploitation de données magasins et clients pour identifier des axes d’amélioration à partir de requêtes SQL.
@@ -93,7 +92,7 @@ Analyse de données de performance et création de visuels adaptés au public ci
 
 ---
 
-### 📈 Tableaux de bord & pilotage d’activité
+### 📈 Mise en place de tableaux de bord pour pilotage de l'activité
 
 **[P6 — Tableau de bord de suivi de projets](./projet-6-powerbi-suivi-projets/)**
 `Power BI · KPI · Pilotage projet`\
