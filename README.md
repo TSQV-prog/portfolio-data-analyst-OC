@@ -27,7 +27,7 @@ Comprendre la structure d’une base de données relationnelle : tables, clés p
 Exploiter les données pour produire des tableaux de bord, KPI et reportings avec Power BI, Python, SQL et Excel. Transformer la donnée brute en information lisible, exploitable et orientée décision.
 
 ### 🗓️ Piloter un projet
-Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de gouvernance. Animer les revues de jalons avec le client et coordonner les contributeurs projet : opérationnels, MOE, Data Engineer, PMO...
+Planifier, suivre les coûts, produire WBS, rétroplanning, PMR et supports de gouvernance. Animer les revues de jalons avec le client et coordonner les contributeurs projet : opérationnels, MOE, Data Engineer, PMO...\
 → [exemple d'une planification](./Planification/)
 
 ### 👥 Accompagner la conduite du changement 
