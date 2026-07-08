@@ -11,8 +11,8 @@ Aujourd'hui certifié Business Intelligence Analyst (OpenClassrooms, 2026), j'al
 
 ## 🎯 Ce que je sais faire
 
-### 🔍 Analyser & recueillir des besoins métier
-Conduire des ateliers de recueil, interviewer les parties prenantes et formaliser les besoins réels — pas seulement ceux exprimés. Expérimenté sur des projets SI (SAP, GMAO, GED) et en environnement défense / maintenance navale.
+### 🔍 Analyser, recueillir des besoins métier
+Conduire des ateliers avec les parties prenantes et formaliser les besoins réels — pas seulement ceux exprimés.
 
 ### 📋 Rédiger des spécifications fonctionnelles
 Traduire les besoins métier en spécifications fonctionnelles détaillées.\
